@@ -17,7 +17,7 @@ can be used with other data sources to refine and hone in on areas of interest f
 information about Acadian land-based travel infrastructure and contextualizing the imposition of the landscape on people who 
 called this place their home.
 
-![Image1](https://github.com/weslyfe/scratchpad/blob/master/LaParoisse.jpg)
+![Image1](https://github.com/weslyfe/weslyfe.github.io/images/LaParoisse.jpg)
 
 Vil Nijeganiche was an Acadian settlement located in the upper marshes of the Chiganois River in Cobequid. In the 18th century,
 it was the last stop for travelers on foot before undertaking a journey over the Cobequid Highlands which provided travelers 
