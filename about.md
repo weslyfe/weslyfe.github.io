@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Nova Scotian archaeologist drawn to digital analyses, and responsible data curation, access, and usability in the field
+of archaeology. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Recently accepted into the Geography MA program at Saint Marys's University. Thesis will examine remote site prospection 
+methods, and human interactions and occupation on former salt marshes in the Bay of Fundy region of Nova Scotia.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:weatherbee.wesley@gmail.com)
