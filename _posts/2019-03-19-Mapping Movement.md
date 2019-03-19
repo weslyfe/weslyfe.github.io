@@ -63,11 +63,12 @@ on the ground during the Siege of Beausejour from June 3rd – 17th, 1755 or tra
 throughout Cobequid from August 6th – 26th.
 
 ![Image1](/images/Willards_Journal.jpg)
+<i>Above: A map produced from The Journal of Abijah Willard (1755). Points created using the entries during June 1st to August 26th, 1755 to display the path taken during this period, some days have many points and other points may be overlaid with a point of a later date. In green is the section of the French River that is supposed to have homed “Francis Boyes.” </i>
 
 Miles and times are mentioned frequently throughout the journal and can be used to delineate Willard’s movements as him, other
 troops, and two captive pilots move through Cobequid interacting with the inhabitants. We can use Willard’s recorded distances
 and descriptions in combination with GIS-software and geospatial data to plot movements from Fort Lawrence throughout Cobequid
-on the surface of the Earth. A map has been created to illustrate this purpose in Figure 1, the points have not yet been 
+on the surface of the Earth. A map has been created to illustrate this purpose in the above map, the points have not yet been 
 refined by comparing Willard’s descriptions with geospatial data, but the map does present a visual sense the path and 
 progression of this expedition. 
 
