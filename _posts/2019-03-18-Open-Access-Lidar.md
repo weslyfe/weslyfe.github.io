@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Open-Acess Data, LiDAR and Archaeology: 'Mining' Geospatial Data from Historical Maps to Contextualize Landscapes of the Past.
+title: Open-Acess Data, LiDAR and Archaeology.
 ---
 
 <i>This is a copy of an article post I wrote on LinkedIn in March 2018.</i>
+
+#Open-Acess Data, LiDAR and Archaeology: 'Mining' Geospatial Data from Historical Maps to Contextualize Landscapes of the Past.
 
 Heres a short reflection on 'mining' spatial data from historic maps in combination with open-access geospatial data for 
 archaeological purposes. The provided map uses a two layered approach to elevation base-mapping to help delineate the tidal
@@ -17,7 +19,7 @@ can be used with other data sources to refine and hone in on areas of interest f
 information about Acadian land-based travel infrastructure and contextualizing the imposition of the landscape on people who 
 called this place their home.
 
-![Image1](https://github.com/weslyfe/weslyfe.github.io/images/LaParoisse.jpg)
+![Image1](/images/LaParoisse.jpg)
 
 Vil Nijeganiche was an Acadian settlement located in the upper marshes of the Chiganois River in Cobequid. In the 18th century,
 it was the last stop for travelers on foot before undertaking a journey over the Cobequid Highlands which provided travelers 
