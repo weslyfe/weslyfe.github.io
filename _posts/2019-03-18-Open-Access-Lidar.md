@@ -5,7 +5,7 @@ title: Open-Acess Data, LiDAR and Archaeology.
 
 <i>This is a copy of an article post I wrote on LinkedIn in March 2018.</i>
 
-#Open-Acess Data, LiDAR and Archaeology: 'Mining' Geospatial Data from Historical Maps to Contextualize Landscapes of the Past.
+# Open-Acess Data, LiDAR and Archaeology: 'Mining' Geospatial Data from Historical Maps to Contextualize Landscapes of the Past.
 
 Heres a short reflection on 'mining' spatial data from historic maps in combination with open-access geospatial data for 
 archaeological purposes. The provided map uses a two layered approach to elevation base-mapping to help delineate the tidal
