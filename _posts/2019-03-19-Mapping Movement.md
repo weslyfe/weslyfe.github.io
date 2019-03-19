@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapping Movement: Willard's Cobequid Expedition"
+title: Mapping Movement - Willard's Cobequid Expedition
 ---
 
 
