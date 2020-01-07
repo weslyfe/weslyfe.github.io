@@ -22,7 +22,7 @@ of Agisoft Photoscan and try my hand at it.
 
 I have since been continuing to record traces of the past using this method. The following is a collection of some of the things I've recorded.
 
-### October 2015, Starting Out
+<h1>October 2015, Starting Out </h1>
 
 Here it is! The result of my first excavated unit and attempt at photogrammetry! I used an Android Galaxy S3 or something of the sort, 
 took way too many pictures, and was not nearly as procedural as I am now with my methodology. But aren't those profiles pretty?
@@ -37,7 +37,7 @@ took way too many pictures, and was not nearly as procedural as I am now with my
 </p>
 </div>
 
-### Thomas Dormer Clay Pipe
+<h1>Thomas Dormer Clay Pipe</h1>
 
 We found several datable objects within the charcoal feature in the excavation above, but one was largely complete and due to burning 
 had lost its sheen. After modelling the first unit, I spent the money on purchasing a student edition of Photoscan and tried modelling 
