@@ -5,6 +5,8 @@ title: Progress Report Assignment
 
 This post just consists of a final paper written first semester of my MA at Saint Mary's University. The paper reflects on and relates my research to Progress Reports in <i>Progress in Human Geography </i>and <i>Progress in Physical Geography</i>. The primary goal of the paper is to begin to define the theoretical approach of the research as it relates to current developments in the field. It's incredible how much archaeology that can be found in these geography journals! Enjoy!
 
+<i>Wesley Weatherbee</i>
+
 
 <h1><span style='font-size:14.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -596,45 +598,39 @@ text-transform:uppercase'>6<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbs
 
  
  Derrida J. (1994). <i>Spectres
-of Marx</i>, translated by Kamuf P. London: Routledge</span>
+of Marx</i>, translated by Kamuf P. London: Routledge
 
  
  Dodge, M. (2017).
 Cartography I: Mapping deeply, mapping the past. <i>Progress in Human Geography</i>,
-<i>41</i>(1), 89–98. </span><a href="https://doi.org/10.1177/0309132516656431"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132516656431</span></a>
+<i>41</i>(1), 89–98. <a href="https://doi.org/10.1177/0309132516656431"> https://doi.org/10.1177/0309132516656431</a>
 
  
  Dodge, M. (2018). Mapping
 II: News media mapping, new mediated geovisualities, mapping and verticality. <i>Progress
-in Human Geography</i>, <i>42</i>(6), 949–958. </span><a
-href="https://doi.org/10.1177/0309132517733086"><span style='font-size:12.0pt;
-line-height: https://doi.org/10.1177/0309132517733086</span></a>
+in Human Geography</i>, <i>42</i>(6), 949–958. <a
+href="https://doi.org/10.1177/0309132517733086"> https://doi.org/10.1177/0309132517733086</a>
 
  
  Hill, L. J. (2015). Human
 geography and archaeology: Strange bedfellows? <i>Progress in Human Geography</i>,
-<i>39</i>(4), 412–431. </span><a href="https://doi.org/10.1177/0309132514521482"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132514521482</span></a>
+<i>39</i>(4), 412–431. <a href="https://doi.org/10.1177/0309132514521482">https://doi.org/10.1177/0309132514521482</a>
 
  
  Inquiries, A. (2019,
 December 12). <i>Projectile Point Typologies Are A Hot Mess</i>. Medium
-website: </span><a
-href="https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33"><span
-style='font-size:12.0pt;line-height: https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33</span></a>
+website: <a
+href="https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33">https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33</a>
 
  
  McGeachan, C. (2014).
 Historical geography I: What remains? <i>Progress in Human Geography</i>, <i>38</i>(6),
-824–837. </span><a href="https://doi.org/10.1177/0309132514546449"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132514546449</span></a>
+824–837. <a href="https://doi.org/10.1177/0309132514546449"> https://doi.org/10.1177/0309132514546449</a>
 
  
  McGeachan, C. (2018).
 Historical geography II: Traces remain. <i>Progress in Human Geography</i>, <i>42</i>(1),
-134–147. </span><a href="https://doi.org/10.1177/0309132516651762"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132516651762</span></a>
+134–147. <a href="https://doi.org/10.1177/0309132516651762"> https://doi.org/10.1177/0309132516651762</a>
 
  
  McGeachan, C. (2019).
