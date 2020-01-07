@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How I started archaeological photogrammetry and 3D modelling
+title: How I began practicing archaeological photogrammetry and 3D modelling
 ---
 
 I really enjoy all things digital, including capturing digital imagery. From the time I began skateboarding at the age of 11 
@@ -23,7 +23,7 @@ classes into the semester Dr. Fowler mentioned that he could use volunteers to e
 of <a href="https://www.agisoft.com/" target="_blank">Agisoft Photoscan</a> (now Metashape) and try my hand at it.
 
 
-I have since been continuing to record traces of the past using this method. The following is a collection of some of the things I've recorded.
+I have since been continuing to record traces of the past using this method. The following is a collection of some of the things I've recorded from my <a href="https://www.sketchfab.com/" target="_blank">Sketchfab</a>.
 
 ### October 2015, Starting Out
 
