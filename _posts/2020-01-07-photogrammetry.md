@@ -20,7 +20,7 @@ a couple intro to anthropology courses and getting hooked. I was taking the intr
 and I remember being ecstatic about the marriage of arts, science, technology, and the outdoors that archaeology offered. A few 
 classes into the semester Dr. Fowler mentioned that he could use volunteers to excavate on the weekend. I was in. We had learned about 
 <a href="https://digventures.com/2016/05/how-to-do-photogrammetry-for-archaeology-part-1/" target="_blank">photogrammetry</a> and its applications for recording an excavation in a prior class. Being the nerd I am, I decided to download a trial version 
-of <a href="https://www.agisoft.com/" target=_blank">Agisoft Photoscan</a> (now Metashape) and try my hand at it.
+of <a href="https://www.agisoft.com/" target="_blank">Agisoft Photoscan</a> (now Metashape) and try my hand at it.
 
 
 I have since been continuing to record traces of the past using this method. The following is a collection of some of the things I've recorded.
