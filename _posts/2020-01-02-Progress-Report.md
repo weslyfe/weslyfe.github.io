@@ -11,8 +11,6 @@ text-transform:uppercase'>1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbs
 </span></span><span style='font-size:14.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>Introduction</span></h1>
 
-</div>
-
 <span style='font-size:12.0pt;line-height:200%'>Browsing progress reports within <i>Progress
 in Human Geography </i>and <i>Progress in Physical Geography</i> gives a reader
 understanding of current developments in the discipline of Geography. Intersecting
