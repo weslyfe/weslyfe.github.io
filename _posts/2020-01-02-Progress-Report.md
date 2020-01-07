@@ -3,8 +3,6 @@ layout: post
 title: Progress Report Assignment
 ---
 
-</style>
-
 </head>
 
 <body lang=EN-CA link=blue vlink="#919191">
