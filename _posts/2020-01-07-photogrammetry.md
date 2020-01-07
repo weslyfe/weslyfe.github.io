@@ -15,7 +15,7 @@ exceptionally well prepared with the technology available. A real sense of appre
 ability to translate material and non-material traces of the past in an effective, experiential, and intuitive way.
 
 
-Jumping forward a decade or so – in October 2015 I had just began to actually began to formalize my major in anthropology after taking 
+Jumping forward a decade or so – in October 2015 I had just began to actually formalize my major in anthropology after taking 
 a couple intro to anthropology courses and getting hooked. I was taking the intro archaeology course with Dr. Jonathan Fowler at the time, 
 and I remember being ecstatic about the marriage of arts, science, technology, and the outdoors that archaeology offered. A few 
 classes into the semester Dr. Fowler mentioned that he could use volunteers to excavate on the weekend. I was in. We had learned about 
@@ -62,6 +62,7 @@ and also decimated the mesh so that I no longer had multiple millions of faces t
 
 There you have it. I've been hooked ever since, and plan to continue this blog to advance education and outreach on this topic and more 
 digital archaeology applications!
+
 
 
 <i>Wesley Weatherbee</i>
