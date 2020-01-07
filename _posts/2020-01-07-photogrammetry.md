@@ -4,7 +4,7 @@ title: How I started archaeological photogrammetry and 3D modelling
 ---
 
 I really enjoy all things digital, including capturing digital imagery. From the time I began skateboarding at the age of 11 
-(I think 2002?) I've used digital imagery (photo and video) to capture and record traces of my experiences. It has been fulfilling 
+(I think 2002?) I've used <a href="https://youtu.be/JrJYLxlHURk" target="_blank">digital imagery</a> (photo and video) to capture and record traces of my experiences. It has been fulfilling 
 to say the least capturing traces of fleeting moments in a form of media that can be so easily copied, shared, and experienced. 
 
 
@@ -19,8 +19,8 @@ Jumping forward a decade or so – in October 2015 I had just began to actually 
 a couple intro to anthropology courses and getting hooked. I was taking the intro archaeology course with Dr. Jonathan Fowler at the time, 
 and I remember being ecstatic about the marriage of arts, science, technology, and the outdoors that archaeology offered. A few 
 classes into the semester Dr. Fowler mentioned that he could use volunteers to excavate on the weekend. I was in. We had learned about 
-photogrammetry and its applications for recording an excavation in a prior class. Being the nerd I am, I decided to download a trial version 
-of Agisoft Photoscan and try my hand at it.
+<a href="https://digventures.com/2016/05/how-to-do-photogrammetry-for-archaeology-part-1/" target="_blank>photogrammetry</a> and its applications for recording an excavation in a prior class. Being the nerd I am, I decided to download a trial version 
+of <a href="https://www.agisoft.com/" target=_blank">Agisoft Photoscan</a> (now Metashape) and try my hand at it.
 
 
 I have since been continuing to record traces of the past using this method. The following is a collection of some of the things I've recorded.
@@ -44,8 +44,8 @@ took way too many pictures, and was not nearly as procedural as I am now with my
 
 ### Thomas Dormer Clay Pipe
 
-We found several datable objects within the charcoal feature in the excavation above, but one was largely complete and due to burning 
-had lost its sheen. After modelling the first unit, I spent the money on purchasing a student edition of Photoscan and tried modelling 
+We found several datable objects within the charcoal feature in the excavation above, but one tobacco pipe was largely complete and 
+had lost its sheen due to burning. A perfect object for photogrammetry! After modelling the first unit, I spent the money on purchasing a student edition of Photoscan and tried modelling 
 the artifact. I used much more forethought modelling and sharing this object. I used masks to mask out the background during processing, 
 and also decimated the mesh so that I no longer had multiple millions of faces to load. 
 
