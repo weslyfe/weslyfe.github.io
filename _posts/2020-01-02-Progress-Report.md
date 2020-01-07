@@ -314,13 +314,13 @@ historical geographer, it will only enrich the research outcomes. I feel
 though, that spectrality only complicates the communication of the idea here.</span>
 
 <span
-style='font-size:12.0pt;line-height:200%'>Hall (2015) commences concluding the
+style='font-size:12.0pt;line-height:200%'>HIll (2015) commences concluding the
 article reminding readers she is “advocating greater cross-disciplinary
 collaboration” as her critical and detailed approach to archaeological concepts
 of materiality, time, and spectrality may divert attention from the relatively
 short references to cross-disciplinary interests, collaboration, and dialogue
 at the end of each section. Presenting three possible cross-disciplinary lines
-of inquiry, though I may argue after reading the article (Hall 2015) along with
+of inquiry, though I may argue after reading the article (HIll 2015) along with
 progress reports on Historical Geography (McGeachan 2014, 2018, 2019) that
 these three examples only scratch the surface of cross-disciplinary joint
 research initiatives for geography and archaeology.</span>
@@ -481,7 +481,7 @@ style='font-size:12.0pt;line-height:200%'>Dated material aside, the book goes
 into deep enough detail to deliver fundamental nuances of historical data
 within GIS when describing the use of a “gazeteer” (Gregory &amp; Ell 2007, 56)
 to standardize vernacular spellings, errors in digitization (p. 46), and how to
-handle error in GIs (p. 82). The book overall is a beneficial text for a reader
+handle error in GIS (p. 82). The book overall is a beneficial text for a reader
 looking to gain a deep enough understanding of GIS to begin to self-educate about
 the topic. I chose this publication, not because it is an easy target for
 criticism, but for a reason connected to my own research. The reason being, the
@@ -508,15 +508,9 @@ the past using new techniques, patterns not visualized in the past can be shown
 in interesting and informative ways. <b>Figure 2 </b>shows density distributions
 of artifacts per unit area in an excavation from the 1960s.</span>
 
-<p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
-margin-bottom:0cm;margin-left:24.0pt;margin-bottom:.0001pt;text-align:center;
-text-indent:-24.0pt;line-height:200%;page-break-after:avoid'><i><img width=506
-height=322 id="Picture 1"
-src="GEOG6000_ProgressReportAssignment_WW_20191213_files/image004.jpg"
-alt="A close up of a map&#10;&#10;Description automatically generated"></i>
-
-<p class=MsoCaption>Figure 2: Artifact density analysis on one excavation unit
-from George MacDonald's 1960s excavations. Modified from: MacDonald 1965.
+![Image1](/images/HistoricalGIS_Debert_SectionA.png)
+<i><small>Figure 2: Artifact density analysis on one excavation unit
+from George MacDonald's 1960s excavations. Modified from: MacDonald 1965.</small></i>
 
 <p class=MsoNormal style='line-height:200%'>               <span
 style='font-size:12.0pt;line-height:200%'>The benefit that such applications
