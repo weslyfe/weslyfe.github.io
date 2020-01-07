@@ -45,7 +45,7 @@ took way too many pictures, and was not nearly as procedural as I am now with my
 ### Thomas Dormer Clay Pipe
 
 We found several datable objects within the charcoal feature in the excavation above, but one tobacco pipe was largely complete and 
-had lost its sheen due to burning. A perfect object for photogrammetry! After modelling the first unit, I spent the money on purchasing a student edition of Photoscan and tried modelling 
+had lost its sheen due to burning. A perfect object for photogrammetry! After modelling the first unit, I spent the money on purchasing a student edition of Photoscan (<a href"https://www.agisoft.com/buy/online-store/educational-license/" target="_blank">$59USD</a>) and tried modelling 
 the artifact. I used much more forethought modelling and sharing this object. I used masks to mask out the background during processing, 
 and also decimated the mesh so that I no longer had multiple millions of faces to load. 
 
