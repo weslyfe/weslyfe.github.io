@@ -19,7 +19,7 @@
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 40%;
+  padding: 0;
   overflow: hidden;
   background-color: #333;
 }
@@ -44,9 +44,9 @@ li a:hover {
   <body>
       <div id="header">
         <ul>
-          <li class="fork"><a href="/">Home</a></li>
-          <li class="fork"><a href="/about">About</a></li>
-          <li class="fork"><a href="https://sketchfab.com/weatherbeewesley" target="_blank">3D Models on Sketchfab</a></li>
+          <li class="fork" style="float:left"><a href="/">Home</a></li>
+          <li class="fork" style="float:left"><a href="/about">About</a></li>
+          <li class="fork" style="float:right"><a href="https://sketchfab.com/weatherbeewesley" target="_blank">3D Models on Sketchfab</a></li>
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
