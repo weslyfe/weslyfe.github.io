@@ -3,17 +3,9 @@ layout: post
 title: Progress Report Assignment
 ---
 
-</style>
+<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+style='font-size:12.0pt;line-height:200%'> This post just consists of a final paper I wrote in the first semester of my MA at Saint Mary's University. The paper reflects on and relates my research to Progress Reports in <i>Progress in Human Geography </i>and <i>Progress in Physical Geography</i>. The primary goal of the paper is to begin to define the theoretical approach of the research as it relates to current developments in the field. It's incredible how much archaeology that can be found in these geography journals! Enjoy!</span></p>
 
-</head>
-
-<body lang=EN-CA link=blue vlink="#919191">
-
-<div class=WordSection1>
-
-<p class=MsoTitle><b><span style='font-size:22.0pt'>Progress Report Assignment</span></b></p>
-
-<div style='border:none;border-bottom:solid #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
 <h1><span style='font-size:14.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
