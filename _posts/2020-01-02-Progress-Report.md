@@ -508,11 +508,11 @@ the past using new techniques, patterns not visualized in the past can be shown
 in interesting and informative ways. <b>Figure 2 </b>shows density distributions
 of artifacts per unit area in an excavation from the 1960s.</span>
 
-![Image1](/images/HistoricalGIS_Debert_SectionA.png)
+![Image1](/images/HistoricalGIS_Debert_SectionA.jpg)
 <i><small>Figure 2: Artifact density analysis on one excavation unit
 from George MacDonald's 1960s excavations. Modified from: MacDonald 1965.</small></i>
 
-<p class=MsoNormal style='line-height:200%'>               <span
+<span
 style='font-size:12.0pt;line-height:200%'>The benefit that such applications
 have to archaeological research are largely in the ability of up and coming
 archaeologists to revisit excavations with new theoretical perspectives and
@@ -594,119 +594,119 @@ text-transform:uppercase'>6<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbs
 
 </div>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Derrida J. (1994). <i>Spectres
+ 
+ <span style='font-size:12.0pt;line-height: Derrida J. (1994). <i>Spectres
 of Marx</i>, translated by Kamuf P. London: Routledge</span>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Dodge, M. (2017).
+ 
+ <span style='font-size:12.0pt;line-height: Dodge, M. (2017).
 Cartography I: Mapping deeply, mapping the past. <i>Progress in Human Geography</i>,
 <i>41</i>(1), 89–98. </span><a href="https://doi.org/10.1177/0309132516656431"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132516656431</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132516656431</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Dodge, M. (2018). Mapping
+ 
+ <span style='font-size:12.0pt;line-height: Dodge, M. (2018). Mapping
 II: News media mapping, new mediated geovisualities, mapping and verticality. <i>Progress
 in Human Geography</i>, <i>42</i>(6), 949–958. </span><a
 href="https://doi.org/10.1177/0309132517733086"><span style='font-size:12.0pt;
-line-height:115%'>https://doi.org/10.1177/0309132517733086</span></a>
+line-height: https://doi.org/10.1177/0309132517733086</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Hill, L. J. (2015). Human
+ 
+ <span style='font-size:12.0pt;line-height: Hill, L. J. (2015). Human
 geography and archaeology: Strange bedfellows? <i>Progress in Human Geography</i>,
 <i>39</i>(4), 412–431. </span><a href="https://doi.org/10.1177/0309132514521482"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132514521482</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132514521482</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Inquiries, A. (2019,
+ 
+ <span style='font-size:12.0pt;line-height: Inquiries, A. (2019,
 December 12). <i>Projectile Point Typologies Are A Hot Mess</i>. Medium
 website: </span><a
 href="https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33"><span
-style='font-size:12.0pt;line-height:115%'>https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33</span></a>
+style='font-size:12.0pt;line-height: https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>McGeachan, C. (2014).
+ 
+ <span style='font-size:12.0pt;line-height: McGeachan, C. (2014).
 Historical geography I: What remains? <i>Progress in Human Geography</i>, <i>38</i>(6),
 824–837. </span><a href="https://doi.org/10.1177/0309132514546449"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132514546449</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132514546449</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>McGeachan, C. (2018).
+ 
+ <span style='font-size:12.0pt;line-height: McGeachan, C. (2018).
 Historical geography II: Traces remain. <i>Progress in Human Geography</i>, <i>42</i>(1),
 134–147. </span><a href="https://doi.org/10.1177/0309132516651762"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132516651762</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132516651762</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>McGeachan, C. (2019).
+ 
+ <span style='font-size:12.0pt;line-height: McGeachan, C. (2019).
 Historical geography III: Hope persists. <i>Progress in Human Geography</i>, <i>43</i>(2),
 351–362. </span><a href="https://doi.org/10.1177/0309132517740481"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132517740481</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132517740481</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Naik, N., Kominers, S.
+ 
+ <span style='font-size:12.0pt;line-height: Naik, N., Kominers, S.
 D., Raskar, R., Glaeser, E. L., &amp; Hidalgo, C. A. (2017). Computer vision
 uncovers predictors of physical urban change. <i>Proceedings of the National
 Academy of Sciences of the United States of America</i>, <i>114</i>(29),
 7571–7576. </span><a href="https://doi.org/10.1073/pnas.1619003114"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1073/pnas.1619003114</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1073/pnas.1619003114</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Nash, R. J., &amp;
+ 
+ <span style='font-size:12.0pt;line-height: Nash, R. J., &amp;
 Stewart, F. L. (1990). Melanson: A large Micmac village in Kings County, Nova
 Scotia. <i>Nova Scotia Museum</i>, (0). </span><a
 href="https://ojs.library.dal.ca/NSM/article/view/4062"><span style='font-size:
-12.0pt;line-height:115%'>https://ojs.library.dal.ca/NSM/article/view/4062</span></a>
+12.0pt;line-height: https://ojs.library.dal.ca/NSM/article/view/4062</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Offen, K. (2012).
+ 
+ <span style='font-size:12.0pt;line-height: Offen, K. (2012).
 Historical geography I: Vital traditions. <i>Progress in Human Geography</i>, <i>36</i>(4),
 527–540. </span><a href="https://doi.org/10.1177/0309132511417964"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132511417964</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132511417964</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Offen, K. (2013).
+ 
+ <span style='font-size:12.0pt;line-height: Offen, K. (2013).
 Historical geography II: Digital imaginations. <i>Progress in Human Geography</i>,
 <i>37</i>(4), 564–577. </span><a href="https://doi.org/10.1177/0309132512462807"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132512462807</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132512462807</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Offen, K. (2014).
+ 
+ <span style='font-size:12.0pt;line-height: Offen, K. (2014).
 Historical geography III: Climate matters. <i>Progress in Human Geography</i>, <i>38</i>(3),
 476–489. </span><a href="https://doi.org/10.1177/0309132513501429"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132513501429</span></a>
+style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132513501429</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Reitsma, F. (2008).
+ 
+ <span style='font-size:12.0pt;line-height: Reitsma, F. (2008).
 Historical GIS: Technologies, methodologies and scholarship. <i>New Zealand
 Geographer</i>, <i>64</i>(2), 173–174. </span><a
 href="https://doi.org/10.1111/j.1745-7939.2008.136_5.x"><span style='font-size:
-12.0pt;line-height:115%'>https://doi.org/10.1111/j.1745-7939.2008.136_5.x</span></a>
+12.0pt;line-height: https://doi.org/10.1111/j.1745-7939.2008.136_5.x</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Rosebrock, A. (2016,
+ 
+ <span style='font-size:12.0pt;line-height: Rosebrock, A. (2016,
 March 28). Measuring size of objects in an image with OpenCV. PyImageSearch
 website: </span><a
 href="https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/"><span
-style='font-size:12.0pt;line-height:115%'>https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/</span></a>
+style='font-size:12.0pt;line-height: https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Singh, R. (2019, June
+ 
+ <span style='font-size:12.0pt;line-height: Singh, R. (2019, June
 10). Computer Vision—An Introduction. Medium website: </span><a
 href="https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7"><span
-style='font-size:12.0pt;line-height:115%'>https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7</span></a>
+style='font-size:12.0pt;line-height: https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7</span></a>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>Tilley C. (1994). <i>A
+ 
+ <span style='font-size:12.0pt;line-height: Tilley C. (1994). <i>A
 Phenomenology of Landscape: Places, Paths and Monuments</i>. Oxford: Berg</span>
 
-<p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
-115%'><span style='font-size:12.0pt;line-height:115%'>van der Maaten, L., Boon,
+ 
+ <span style='font-size:12.0pt;line-height: van der Maaten, L., Boon,
 P., Lange, G., Paijmans, H., &amp; Postma, E. (2007). Computer Vision and
 Machine Learning for Archaeology. In J. T. Clark &amp; E. M. Hagermeister
 (Eds.), <i>Digital Discovery: Exploring New Frontiers in Human Heritage</i>
 (pp. 476–482). </span><a
 href="https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf"><span
-style='font-size:12.0pt;line-height:115%'>https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf</span></a>
+style='font-size:12.0pt;line-height: https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf</span></a>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 200%'><span style='font-size:12.0pt;line-height:200%;font-family:"Times New Roman",serif'>&nbsp;</span>
