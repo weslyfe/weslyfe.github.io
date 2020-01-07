@@ -126,17 +126,12 @@ area from multiple objects in an image (<b>Figure 1</b>) and saves the data to
 a CSV. Results can be appended to artifact locational data for use in
 geospatial analysis.</span>
 
-<p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-text-align:center;line-height:200%;page-break-after:avoid'><span
-style='font-size:12.0pt;line-height:200%'><img width=436 height=304
-id="Picture 4"
-src="GEOG6000_ProgressReportAssignment_WW_20191213_files/image003.jpg"></span>
-
-<p class=MsoCaption>Figure 1: Visualization of a measurement of one object
+![Image1](/images/SurfaceArea_Lithics_PR.jpg)
+<i><small>Figure 1: Visualization of a measurement of one object
 (flake) in an image of lithic flakes from flintknapping. The process iterates
 every object in the image from left to right. A known object (Canadian quarter
 = 2.381cm) is placed furthest left in the image to convert subsequent
-measurements from pixels to cm.
+measurements from pixels to cm. </small></i>
 
 <span
 style='font-size:12.0pt;line-height:200%'>The number of mundane processes
