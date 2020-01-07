@@ -8,7 +8,7 @@ I really enjoy all things digital, including capturing digital imagery. From the
 to say the least capturing traces of fleeting moments in a form of media that can be so easily copied, shared, and experienced. 
 
 
-I've also always had a curiosity of the past. As a child I remember watching documentaries from Nova, History, Discovery, and BBC. 
+I've also always had a curiosity of the past. As a child I remember watching countless documentaries from Nova, History, Discovery, and BBC. 
 These documentaries exposed me to 'state-of-the-art' tech applications that visualized all kinds of traces of the past. From landscapes, 
 to our hominid ancestors, early human civilizations, and even dinosaurs, in the 90's and early 2000's, traces of the past were being 
 exceptionally well prepared with the technology available. A real sense of appreciation developed for multimedia storytelling in its 
