@@ -595,124 +595,108 @@ text-transform:uppercase'>6<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbs
 </div>
 
  
- <span style='font-size:12.0pt;line-height: Derrida J. (1994). <i>Spectres
+ Derrida J. (1994). <i>Spectres
 of Marx</i>, translated by Kamuf P. London: Routledge</span>
 
  
- <span style='font-size:12.0pt;line-height: Dodge, M. (2017).
+ Dodge, M. (2017).
 Cartography I: Mapping deeply, mapping the past. <i>Progress in Human Geography</i>,
 <i>41</i>(1), 89–98. </span><a href="https://doi.org/10.1177/0309132516656431"><span
 style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132516656431</span></a>
 
  
- <span style='font-size:12.0pt;line-height: Dodge, M. (2018). Mapping
+ Dodge, M. (2018). Mapping
 II: News media mapping, new mediated geovisualities, mapping and verticality. <i>Progress
 in Human Geography</i>, <i>42</i>(6), 949–958. </span><a
 href="https://doi.org/10.1177/0309132517733086"><span style='font-size:12.0pt;
 line-height: https://doi.org/10.1177/0309132517733086</span></a>
 
  
- <span style='font-size:12.0pt;line-height: Hill, L. J. (2015). Human
+ Hill, L. J. (2015). Human
 geography and archaeology: Strange bedfellows? <i>Progress in Human Geography</i>,
 <i>39</i>(4), 412–431. </span><a href="https://doi.org/10.1177/0309132514521482"><span
 style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132514521482</span></a>
 
  
- <span style='font-size:12.0pt;line-height: Inquiries, A. (2019,
+ Inquiries, A. (2019,
 December 12). <i>Projectile Point Typologies Are A Hot Mess</i>. Medium
 website: </span><a
 href="https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33"><span
 style='font-size:12.0pt;line-height: https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33</span></a>
 
  
- <span style='font-size:12.0pt;line-height: McGeachan, C. (2014).
+ McGeachan, C. (2014).
 Historical geography I: What remains? <i>Progress in Human Geography</i>, <i>38</i>(6),
 824–837. </span><a href="https://doi.org/10.1177/0309132514546449"><span
 style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132514546449</span></a>
 
  
- <span style='font-size:12.0pt;line-height: McGeachan, C. (2018).
+ McGeachan, C. (2018).
 Historical geography II: Traces remain. <i>Progress in Human Geography</i>, <i>42</i>(1),
 134–147. </span><a href="https://doi.org/10.1177/0309132516651762"><span
 style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132516651762</span></a>
 
  
- <span style='font-size:12.0pt;line-height: McGeachan, C. (2019).
+ McGeachan, C. (2019).
 Historical geography III: Hope persists. <i>Progress in Human Geography</i>, <i>43</i>(2),
 351–362. </span><a href="https://doi.org/10.1177/0309132517740481"><span
 style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132517740481</span></a>
 
  
- <span style='font-size:12.0pt;line-height: Naik, N., Kominers, S.
+ Naik, N., Kominers, S.
 D., Raskar, R., Glaeser, E. L., &amp; Hidalgo, C. A. (2017). Computer vision
 uncovers predictors of physical urban change. <i>Proceedings of the National
 Academy of Sciences of the United States of America</i>, <i>114</i>(29),
-7571–7576. </span><a href="https://doi.org/10.1073/pnas.1619003114"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1073/pnas.1619003114</span></a>
+7571–7576. <a href="https://doi.org/10.1073/pnas.1619003114"> https://doi.org/10.1073/pnas.1619003114</a>
 
  
- <span style='font-size:12.0pt;line-height: Nash, R. J., &amp;
+ Nash, R. J., &amp;
 Stewart, F. L. (1990). Melanson: A large Micmac village in Kings County, Nova
-Scotia. <i>Nova Scotia Museum</i>, (0). </span><a
-href="https://ojs.library.dal.ca/NSM/article/view/4062"><span style='font-size:
-12.0pt;line-height: https://ojs.library.dal.ca/NSM/article/view/4062</span></a>
+Scotia. <i>Nova Scotia Museum</i>, (0). <a
+href="https://ojs.library.dal.ca/NSM/article/view/4062">https://ojs.library.dal.ca/NSM/article/view/4062</a>
 
  
- <span style='font-size:12.0pt;line-height: Offen, K. (2012).
+ Offen, K. (2012).
 Historical geography I: Vital traditions. <i>Progress in Human Geography</i>, <i>36</i>(4),
-527–540. </span><a href="https://doi.org/10.1177/0309132511417964"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132511417964</span></a>
+527–540. <a href="https://doi.org/10.1177/0309132511417964">https://doi.org/10.1177/0309132511417964</a>
 
  
- <span style='font-size:12.0pt;line-height: Offen, K. (2013).
+ Offen, K. (2013).
 Historical geography II: Digital imaginations. <i>Progress in Human Geography</i>,
-<i>37</i>(4), 564–577. </span><a href="https://doi.org/10.1177/0309132512462807"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132512462807</span></a>
+<i>37</i>(4), 564–577. <a href="https://doi.org/10.1177/0309132512462807">https://doi.org/10.1177/0309132512462807</a>
 
  
- <span style='font-size:12.0pt;line-height: Offen, K. (2014).
+ Offen, K. (2014).
 Historical geography III: Climate matters. <i>Progress in Human Geography</i>, <i>38</i>(3),
-476–489. </span><a href="https://doi.org/10.1177/0309132513501429"><span
-style='font-size:12.0pt;line-height: https://doi.org/10.1177/0309132513501429</span></a>
+476–489. <a href="https://doi.org/10.1177/0309132513501429">https://doi.org/10.1177/0309132513501429</a>
 
  
- <span style='font-size:12.0pt;line-height: Reitsma, F. (2008).
+ Reitsma, F. (2008).
 Historical GIS: Technologies, methodologies and scholarship. <i>New Zealand
-Geographer</i>, <i>64</i>(2), 173–174. </span><a
-href="https://doi.org/10.1111/j.1745-7939.2008.136_5.x"><span style='font-size:
-12.0pt;line-height: https://doi.org/10.1111/j.1745-7939.2008.136_5.x</span></a>
+Geographer</i>, <i>64</i>(2), 173–174. <a
+href="https://doi.org/10.1111/j.1745-7939.2008.136_5.x">https://doi.org/10.1111/j.1745-7939.2008.136_5.x</a>
 
  
- <span style='font-size:12.0pt;line-height: Rosebrock, A. (2016,
+ Rosebrock, A. (2016,
 March 28). Measuring size of objects in an image with OpenCV. PyImageSearch
-website: </span><a
-href="https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/"><span
-style='font-size:12.0pt;line-height: https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/</span></a>
+website: <a
+href="https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/"> https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/</a>
 
  
- <span style='font-size:12.0pt;line-height: Singh, R. (2019, June
-10). Computer Vision—An Introduction. Medium website: </span><a
-href="https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7"><span
-style='font-size:12.0pt;line-height: https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7</span></a>
+ Singh, R. (2019, June
+10). Computer Vision—An Introduction. Medium website: <a
+href="https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7">https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7</a>
 
  
- <span style='font-size:12.0pt;line-height: Tilley C. (1994). <i>A
-Phenomenology of Landscape: Places, Paths and Monuments</i>. Oxford: Berg</span>
+ Tilley C. (1994). <i>A
+Phenomenology of Landscape: Places, Paths and Monuments</i>. Oxford: Berg
 
  
- <span style='font-size:12.0pt;line-height: van der Maaten, L., Boon,
+ van der Maaten, L., Boon,
 P., Lange, G., Paijmans, H., &amp; Postma, E. (2007). Computer Vision and
 Machine Learning for Archaeology. In J. T. Clark &amp; E. M. Hagermeister
 (Eds.), <i>Digital Discovery: Exploring New Frontiers in Human Heritage</i>
-(pp. 476–482). </span><a
-href="https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf"><span
-style='font-size:12.0pt;line-height: https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf</span></a>
+(pp. 476–482). <a
+href="https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf">https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf</a>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-200%'><span style='font-size:12.0pt;line-height:200%;font-family:"Times New Roman",serif'>&nbsp;</span>
-
-</div>
-
-</body>
-
-</html>
+<span style='font-size:12.0pt;line-height:200%;font-family:"Times New Roman",serif'>&nbsp;
