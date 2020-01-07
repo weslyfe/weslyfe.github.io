@@ -3,8 +3,7 @@ layout: post
 title: Progress Report Assignment
 ---
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
-style='font-size:12.0pt;line-height:200%'> This post just consists of a final paper I wrote in the first semester of my MA at Saint Mary's University. The paper reflects on and relates my research to Progress Reports in <i>Progress in Human Geography </i>and <i>Progress in Physical Geography</i>. The primary goal of the paper is to begin to define the theoretical approach of the research as it relates to current developments in the field. It's incredible how much archaeology that can be found in these geography journals! Enjoy!</span></p>
+<span style='font-size:12.0pt;line-height:200%'> This post just consists of a final paper I wrote in the first semester of my MA at Saint Mary's University. The paper reflects on and relates my research to Progress Reports in <i>Progress in Human Geography </i>and <i>Progress in Physical Geography</i>. The primary goal of the paper is to begin to define the theoretical approach of the research as it relates to current developments in the field. It's incredible how much archaeology that can be found in these geography journals! Enjoy!</span>
 
 
 <h1><span style='font-size:14.0pt;line-height:107%;font-variant:normal !important;
@@ -14,8 +13,7 @@ text-transform:uppercase'>Introduction</span></h1>
 
 </div>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
-style='font-size:12.0pt;line-height:200%'>Browsing progress reports within <i>Progress
+<span style='font-size:12.0pt;line-height:200%'>Browsing progress reports within <i>Progress
 in Human Geography </i>and <i>Progress in Physical Geography</i> gives a reader
 understanding of current developments in the discipline of Geography. Intersecting
 the subdisciplines of physical and human geography my research involves two areas
@@ -29,9 +27,9 @@ Rehabilitation Administration (MMRA). Building on the above two statements, cons
 the archival, ecological, ethnographic, and geographic histories of past
 intertidal landscapes on the Gaspereaux river valley in the context of their
 archaeological data using GIS, remote sensing, and computer vision is the
-general research topic. </span></p>
+general research topic. </span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Choosing progress reports broadly
 relevant to my research unveils a remarkably large degree of cross-over subject
 matter between Archaeology and Historical Geography often not represented at an
@@ -44,7 +42,7 @@ and far between, their ends were infrequently related to humans. For these
 reasons, I am selecting only progress reports from <i>Progress in Human
 Geography</i> as the subjects for the following paper: Cartography/Mapping
 (Dodge 2017, 2018), Historical Geography (Offen 2012, 2013, 2014), and a second
-Historical Geography (McGeachen 2014, 2018, 2019).  </span></p>
+Historical Geography (McGeachen 2014, 2018, 2019).  </span>
 
 <div style='border:none;border-bottom:solid #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
@@ -55,7 +53,7 @@ text-transform:uppercase'>Cartography I &amp; Mapping II</span></h1>
 
 </div>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Dodge’s collection happens to switch
 titles from cartography to mapping from the first to second report (Dodge 2017,
 2018). The first report is focusing on the subject of unlocking value in
@@ -71,9 +69,9 @@ communicating place-based information and understandings Dodge is careful and
 fair in his treatment. If identification of weakness in Dodge’s collection was
 forced, I may cite the change in title between reports that made it hard to
 locate the second report in the collection. This may, however, be a clever and subtle
-differentiation of the concepts of cartography and mapping in Dodge’s eyes.</span></p>
+differentiation of the concepts of cartography and mapping in Dodge’s eyes.</span>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Modern geovisualization techniques
 and applications offer up a range of topics broadly relating to my research
 from making use of historic cartographies to geovisualization and communication
@@ -82,14 +80,14 @@ the applications of new geovisualization techniques for contextualization of
 past human landscapes or unlocking the value in historic cartography. However
 integral both are to my research. Dodge’s collection references a novel use of
 computer vision techniques in “automated detection of environmental
-characteristics of place” (2018, p. 955) employed by Naik et al. (2017). </span></p>
+characteristics of place” (2018, p. 955) employed by Naik et al. (2017). </span>
 
 <h2><span style='font-size:12.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>2.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>Computer Vision and Urban Change</span></h2>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Dodge’s collection of progress
 reports on cartography and mapping devotes a short section to the article by
 Naik et al. (2017) applying computer vision to measure street change, taking
@@ -111,9 +109,9 @@ by categorizing lower class neighbourhoods as invariably unsafe due to
 aesthetics, which can derive from economics rather than criminality. Diachronic
 modern urban landscapes are not a large interest for me in terms of research,
 though the field of computer vision and its applications are highly related to
-my thesis research.</span></p>
+my thesis research.</span>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Computer vision (CV) is an
 interdisciplinary field of research devoted to “extract[ing] meaning from
 pixels” (Singh, 2019). The application of CV by Naik et al. (2017) involves
@@ -126,21 +124,21 @@ the x, and y dimensions of multiple objects in an image and displaying the
 results (PyImageSearch 2016). Additionally, the resulting tool extracts 2D surface
 area from multiple objects in an image (<b>Figure 1</b>) and saves the data to
 a CSV. Results can be appended to artifact locational data for use in
-geospatial analysis.</span></p>
+geospatial analysis.</span>
 
 <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
 text-align:center;line-height:200%;page-break-after:avoid'><span
 style='font-size:12.0pt;line-height:200%'><img width=436 height=304
 id="Picture 4"
-src="GEOG6000_ProgressReportAssignment_WW_20191213_files/image003.jpg"></span></p>
+src="GEOG6000_ProgressReportAssignment_WW_20191213_files/image003.jpg"></span>
 
 <p class=MsoCaption>Figure 1: Visualization of a measurement of one object
 (flake) in an image of lithic flakes from flintknapping. The process iterates
 every object in the image from left to right. A known object (Canadian quarter
 = 2.381cm) is placed furthest left in the image to convert subsequent
-measurements from pixels to cm.</p>
+measurements from pixels to cm.
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>The number of mundane processes
 automated using computational methods is growing as computation devices become
 more socially ubiquitous. Like all studies of the past, Archaeology is experiencing
@@ -150,7 +148,7 @@ and other studies of the past may be waiting until knowledge of the skills
 involved in computational methods becomes commonplace in society. As computer
 programming is now being taught in Nova Scotian schools up to grade 6 since
 2017 (Julie, 2017), general knowledge of computer programming will likely be
-routine in future academic research.</span></p>
+routine in future academic research.</span>
 
 <div style='border:none;border-bottom:solid #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
@@ -161,7 +159,7 @@ text-transform:uppercase'>Remain or Persist in Historical Geography?</span></h1>
 
 </div>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>The second collection of progress
 reports examined are authored by Cheryl McGeachen, a lecturer in Human
 Geography at the University of Glasgow. Her collection is focusing on a theme
@@ -194,9 +192,9 @@ intersection is used to contextualize how modern historical climatology is
 being practiced, how archaeology and historical geography resurface and examine
 dark histories as a means for “disrupt[ing] and unsettle[-ing] understandings
 of time, place and self” (p. 356). The last intersection examined by McGeachan
-(2019) is that which connects both previous topics to “Legal worlds” (p.357). </span></p>
+(2019) is that which connects both previous topics to “Legal worlds” (p.357). </span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>McGeachan’s collection of progress
 reports on historical geography are artful in their constitution, yet critical
 in their assessments of practice and application. Though not quite reading like
@@ -215,14 +213,14 @@ intersection in discussing the dark histories of “[b]odies and battlefields”
 (2014, p. 826). It should be noted though, that the inclusion of an example so
 divergent from the more contemporary subject matter may have been a seemingly
 undesirable digression. Therefore, little criticism can be given to McGeachan
-for that omission.</span></p>
+for that omission.</span>
 
 <h2><span style='font-size:12.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>3.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-size:12.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>Strange Bedfellows?</span></h2>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Lisa J. Hill (2015) invites
 geographers to contemplate how “archaeological ways of doing” (p. 424) can
 enrich geographical research, particularly cultural geography. The article is
@@ -242,9 +240,9 @@ focusing on time (p. 419) and matter (p. 416), the disciplinary place of
 contemporary archaeology (p. 414), a criticism of the sanitized results
 uncareful archaeology delivers (p. 422), and finally a conclusion presenting
 how the “archaeological imagination” (p. 425) or archaeological approaches can
-open up new directions in cultural geography. </span></p>
+open up new directions in cultural geography. </span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Delivering her thoughts to an
 audience of geographers makes this article no less relatable to an
 archeological researcher wishing to apply human geographical ‘imaginations’ to
@@ -266,9 +264,9 @@ It is nevertheless important for the archaeologist to carefully employ their
 data in developing contextual understandings of how material and immaterial
 characteristics of the archaeology relate to themselves and the broader past.
 In the following, I attempt to pull geographical understandings from Hill’s
-article to present opportunity for my own archaeological research.</span></p>
+article to present opportunity for my own archaeological research.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>In a Canadian context Hill’s
 assertion that “utilizing a whole range of sources and techniques … from
 archival records to ethnography” (2015, p. 415) makes contemporary archaeology
@@ -282,9 +280,9 @@ therefore, making use of ethnography and/or archival material becomes part of
 routine interaction with the past. It is clear that the place of contemporary
 archaeology in society varies by location, making specific examples in Hill’s
 (2015) remarks about contemporary archaeology seem less relevant to Canadian
-readers. </span></p>
+readers. </span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>The concepts of “material culture,
 matter, and materiality” are deservedly treated to an introduction broadly
 covering the development of modern archaeological theory (Hill 2015, p. 416).
@@ -307,9 +305,9 @@ archaeology is where Hill’s pinning of the two approaches to material culture
 (2015, p. 419) in an ‘asymmetric dualism’ (p 418) is slightly ironic.
 Symmetrical archaeology aims to move away from dualisms (Hill 2015, p. 418),
 yet uses a dualism in her framing of it in opposition with phenomenological
-approaches to materiality.</span></p>
+approaches to materiality.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>The subsequent sections in Hill’s
 (2015) article cover the archaeological concept of time (p. 419) along with
 absence and presence in archaeological methods. The former being presented in
@@ -320,9 +318,9 @@ Derrida’s (1994) concept of spectrality and an application of it to
 archaeology. The need to identify and examine past traces of humanity absent in
 archaeological and historical records is necessary if an archaeologist or
 historical geographer, it will only enrich the research outcomes. I feel
-though, that spectrality only complicates the communication of the idea here.</span></p>
+though, that spectrality only complicates the communication of the idea here.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Hall (2015) commences concluding the
 article reminding readers she is “advocating greater cross-disciplinary
 collaboration” as her critical and detailed approach to archaeological concepts
@@ -332,7 +330,7 @@ at the end of each section. Presenting three possible cross-disciplinary lines
 of inquiry, though I may argue after reading the article (Hall 2015) along with
 progress reports on Historical Geography (McGeachan 2014, 2018, 2019) that
 these three examples only scratch the surface of cross-disciplinary joint
-research initiatives for geography and archaeology.</span></p>
+research initiatives for geography and archaeology.</span>
 
 <div style='border:none;border-bottom:solid #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
@@ -344,7 +342,7 @@ Climate</span></h1>
 
 </div>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>The third and final collection of
 progress reports examined here is another on historical geography, though quite
 different than those put forth by McGeachan (2014, 2018, 2019). The final
@@ -353,9 +351,9 @@ with a subtitle sequence following “Historical geography [I/II/III]:” of vit
 traditions (2012), digital imaginations (2013), and climate matters (2014). Offen
 covers broad subject matter of importance in relation to historical geography
 and in contrast to McGeachan (2014, 2018, 2019) all works were written more
-than five years ago making the analytical experience more reflective.</span></p>
+than five years ago making the analytical experience more reflective.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Offen uses the first section in vital
 traditions (2012) to examine the place of historic maps and cartography in past
 and contemporary social issues. Here, Offen (2012) is focusing on race
@@ -372,9 +370,9 @@ called landscape ethnoecology in archaeological circles. The first report is a
 good high-level introduction into some subject matter that historical geography
 covers. Offen’s reports that follow (2013, 2014) relate closer to my research
 as an archaeologist, as they cover some more practical ways to analyze and
-communicate results.</span></p>
+communicate results.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Offen’s (2013) “Historic geography
 II: Digital imaginations” is the reason that I chose to cover this collection
 of progress reports. The subject matter of digital representations of historic
@@ -399,9 +397,9 @@ traditions and digital imaginations to the table”? I believe that the answer
 lies in the business plan of the “masters of digital technologies” (p. 572) as,
 when their product is being frequently applied for any use, digital companies
 are more easily able to adapt to new requests, as upgrades to digital tools are
-easier to roll-out than for their physical counterparts. </span></p>
+easier to roll-out than for their physical counterparts. </span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>The paper concludes with Offen
 pushing for researchers to not make new technologies redefine previously
 defined methods by bringing new tools to the conceptual playground (2013, p.
@@ -421,9 +419,9 @@ or even more mind-boggling, site specific variants. I disagree with Offen in
 thinking that technological tools are restrictive as his tone suggests. In contrast,
 I believe that computational tools stand alone in being able to illuminate
 human biases in research when they are deeply entrenched in and accepted by the
-field.</span></p>
+field.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Offen’s third article (2014) entitled
 “Historical geography III: Climate matters” challenges historical researchers
 to engage more fully with how climate impacts lived histories (p. 479), examine
@@ -437,14 +435,14 @@ much an effort to bring discussions of climate change into public discussion as
 it is an effort to more holistically understand the deep past of the Bay of
 Fundy. In this way, the final article by Offen (2014) falls short of providing
 the applications necessary for me to relate the article directly to my
-research.</span></p>
+research.</span>
 
 <h2><span style='font-size:12.0pt;line-height:107%;font-variant:normal !important;
 text-transform:uppercase'>4.1<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><span style='font-variant:normal !important;text-transform:uppercase'>HGIS
 or GIS Application?</span></h2>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>As previouslt mentioned, the second
 article by Offen (2013) briefly introduces HGIS as a standalone approach rather
 than an extension of GIS into the realm of historical research. There is no
@@ -454,9 +452,9 @@ how-to book entitled <i>Historical GIS: Technologies, Methodologies, and
 Scholarship </i>(Gregory &amp; Ell 2007) for my final critical analysis of this
 paper. A book may seem like an odd analysis to focus on in such a short paper
 as this, but the how-to nature and the aged subject matter make a publication
-of this length easier to analyze in brief.</span></p>
+of this length easier to analyze in brief.</span>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>The book starts out with an overview
 of what HGIS actually is, and although I tend to disagree that it be defined as
 its own subfield within geography or GIS, the authors eloquently describe the
@@ -466,9 +464,9 @@ GIS software is not about the analysis, but what the data actually represents,
 and what it can be used to measure in its context. This ultimately speaks to
 the nature of GIS in any research endeavour. Following this, the book does the
 expected in providing a general overview of GIS and how it represents the
-earth’s surface.</span></p>
+earth’s surface.</span>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Gregory and Ell (2007) then examine
 topics ranging from “Building historical GIS ddatabases” (p. 21), dealing with
 historical data in GIS (p. 63), visualization (p. 89), time (p. 119), data
@@ -483,9 +481,9 @@ obsolete”. This review provides an overview of the “datedness” (p. 174) of
 concepts in the text, even upon release. Although giving credit to the authors
 for its ability to meet “its objectives and the needs of the audience” (Retsima
 2008, p. 174) the review is critical throughout of the dated material in the
-book. </span></p>
+book. </span>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Dated material aside, the book goes
 into deep enough detail to deliver fundamental nuances of historical data
 within GIS when describing the use of a “gazeteer” (Gregory &amp; Ell 2007, 56)
@@ -498,9 +496,9 @@ intimate relationship HGIS holds with my own archaeological research. I
 anticipate that much of my research data will be digitized and housed in a GIS
 based database. Whether truly historic documents or digitizing and cataloguing
 archaeological data for analysis, GIS will be fundamental in organizing and
-analyzing many aspects of my research.</span></p>
+analyzing many aspects of my research.</span>
 
-<p class=MsoNormal style='text-indent:28.8pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>To illustrate this point, I will make
 a connection between HGIS, the archaeological archive, and the my research. The
 topics of data digitization and visualization are areas which archaeology could
@@ -515,17 +513,17 @@ Digitization of old data liberates the information in the archaeological
 record, opening it up to new analyses. By revisiting archaeological records of
 the past using new techniques, patterns not visualized in the past can be shown
 in interesting and informative ways. <b>Figure 2 </b>shows density distributions
-of artifacts per unit area in an excavation from the 1960s.</span></p>
+of artifacts per unit area in an excavation from the 1960s.</span>
 
 <p class=MsoNormal align=center style='margin-top:0cm;margin-right:0cm;
 margin-bottom:0cm;margin-left:24.0pt;margin-bottom:.0001pt;text-align:center;
 text-indent:-24.0pt;line-height:200%;page-break-after:avoid'><i><img width=506
 height=322 id="Picture 1"
 src="GEOG6000_ProgressReportAssignment_WW_20191213_files/image004.jpg"
-alt="A close up of a map&#10;&#10;Description automatically generated"></i></p>
+alt="A close up of a map&#10;&#10;Description automatically generated"></i>
 
 <p class=MsoCaption>Figure 2: Artifact density analysis on one excavation unit
-from George MacDonald's 1960s excavations. Modified from: MacDonald 1965.</p>
+from George MacDonald's 1960s excavations. Modified from: MacDonald 1965.
 
 <p class=MsoNormal style='line-height:200%'>               <span
 style='font-size:12.0pt;line-height:200%'>The benefit that such applications
@@ -544,7 +542,7 @@ deposited. It may well be considered that the southeastern hearth in <b>Figure
 in celebration during a meal in the midst of the Younger Dryas in Cobequid. New
 questions asked of old data can begin to humanize the deep past in ways
 previously impossible. It is for these reasons that I believe GIS and what is
-known as HGIS are integral to my research.</span></p>
+known as HGIS are integral to my research.</span>
 
 <div style='border:none;border-bottom:solid #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
@@ -555,7 +553,7 @@ and Applications</span></h1>
 
 </div>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>This exercise in familiarizing myself
 and my research to recent developments and progress in geography has given me a
 chance to understand many of the conceptual overlaps exist. Firstly, I had
@@ -566,9 +564,9 @@ to be well in tune with the cross-over of these practices (e.g.: Dodge 2017,
 2018; Hill, 2015; McGeachan 2014, 2018, 2019; Offen 2012, 2013, 2014). These
 progress reports have clarified the modern position of geography in relation to
 archaeology to me and aided in connecting much of the content encountered in
-this course.</span></p>
+this course.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>From concerns about what traces
 archaeological methods omit (Hill 2015), to cross-disciplinary topics of
 research interest, historical mapping and mapping history, the progress report
@@ -576,9 +574,9 @@ synthesis has provided much in the way of usable subject matter in my research.
 The project forced me to consider readings from the course as well. Derrida and
 poststructuralism were revisited on the topic of sprectrality (1994), the
 quantitative side of human geography was grappled with, and the core of
-geography and disciplinary boundaries were touched upon relatively frequently. </span></p>
+geography and disciplinary boundaries were touched upon relatively frequently. </span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>Though being the only analysis
 without an image, Lisa Hill’s (2015) article on archaeology and historical
 geography is the one article that stands out above the rest for relatability to
@@ -588,18 +586,18 @@ disciplines. The concept of materiality, time and the considerations attached
 to both are valuable insights to reflect upon as I begin to design my research
 in a more formal sense. The result of this paper increases my geographical
 literacy in terms of jargon, but the weekly readings may also be to thank in
-part. </span></p>
+part. </span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
+<span
 style='font-size:12.0pt;line-height:200%'>In closing I must note </span><span
 style='font-size:12.0pt;line-height:200%'>&#9472;</span><span style='font-size:
 12.0pt;line-height:200%'> the geographer and historian seem to no longer be
 opposing forces, poststructuralism is alive and well in geography, Marxism
 still makes its impact, and hand-wringing is no less of a trait of historic
-geographers as it is of historical geographers.</span></p>
+geographers as it is of historical geographers.</span>
 
-<p class=MsoNormal style='text-indent:21.6pt;line-height:200%'><span
-style='font-size:12.0pt;line-height:200%'>&nbsp;</span></p>
+<span
+style='font-size:12.0pt;line-height:200%'>&nbsp;</span>
 
 <div style='border:none;border-bottom:solid #595959 1.0pt;padding:0cm 0cm 1.0pt 0cm'>
 
@@ -611,51 +609,51 @@ text-transform:uppercase'>6<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbs
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Derrida J. (1994). <i>Spectres
-of Marx</i>, translated by Kamuf P. London: Routledge</span></p>
+of Marx</i>, translated by Kamuf P. London: Routledge</span>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Dodge, M. (2017).
 Cartography I: Mapping deeply, mapping the past. <i>Progress in Human Geography</i>,
 <i>41</i>(1), 89–98. </span><a href="https://doi.org/10.1177/0309132516656431"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132516656431</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132516656431</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Dodge, M. (2018). Mapping
 II: News media mapping, new mediated geovisualities, mapping and verticality. <i>Progress
 in Human Geography</i>, <i>42</i>(6), 949–958. </span><a
 href="https://doi.org/10.1177/0309132517733086"><span style='font-size:12.0pt;
-line-height:115%'>https://doi.org/10.1177/0309132517733086</span></a></p>
+line-height:115%'>https://doi.org/10.1177/0309132517733086</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Hill, L. J. (2015). Human
 geography and archaeology: Strange bedfellows? <i>Progress in Human Geography</i>,
 <i>39</i>(4), 412–431. </span><a href="https://doi.org/10.1177/0309132514521482"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132514521482</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132514521482</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Inquiries, A. (2019,
 December 12). <i>Projectile Point Typologies Are A Hot Mess</i>. Medium
 website: </span><a
 href="https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33"><span
-style='font-size:12.0pt;line-height:115%'>https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://medium.com/cultural-resource-management/projectile-point-typologies-are-a-hot-mess-9102dc331b33</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>McGeachan, C. (2014).
 Historical geography I: What remains? <i>Progress in Human Geography</i>, <i>38</i>(6),
 824–837. </span><a href="https://doi.org/10.1177/0309132514546449"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132514546449</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132514546449</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>McGeachan, C. (2018).
 Historical geography II: Traces remain. <i>Progress in Human Geography</i>, <i>42</i>(1),
 134–147. </span><a href="https://doi.org/10.1177/0309132516651762"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132516651762</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132516651762</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>McGeachan, C. (2019).
 Historical geography III: Hope persists. <i>Progress in Human Geography</i>, <i>43</i>(2),
 351–362. </span><a href="https://doi.org/10.1177/0309132517740481"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132517740481</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132517740481</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Naik, N., Kominers, S.
@@ -663,56 +661,56 @@ D., Raskar, R., Glaeser, E. L., &amp; Hidalgo, C. A. (2017). Computer vision
 uncovers predictors of physical urban change. <i>Proceedings of the National
 Academy of Sciences of the United States of America</i>, <i>114</i>(29),
 7571–7576. </span><a href="https://doi.org/10.1073/pnas.1619003114"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1073/pnas.1619003114</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1073/pnas.1619003114</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Nash, R. J., &amp;
 Stewart, F. L. (1990). Melanson: A large Micmac village in Kings County, Nova
 Scotia. <i>Nova Scotia Museum</i>, (0). </span><a
 href="https://ojs.library.dal.ca/NSM/article/view/4062"><span style='font-size:
-12.0pt;line-height:115%'>https://ojs.library.dal.ca/NSM/article/view/4062</span></a></p>
+12.0pt;line-height:115%'>https://ojs.library.dal.ca/NSM/article/view/4062</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Offen, K. (2012).
 Historical geography I: Vital traditions. <i>Progress in Human Geography</i>, <i>36</i>(4),
 527–540. </span><a href="https://doi.org/10.1177/0309132511417964"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132511417964</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132511417964</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Offen, K. (2013).
 Historical geography II: Digital imaginations. <i>Progress in Human Geography</i>,
 <i>37</i>(4), 564–577. </span><a href="https://doi.org/10.1177/0309132512462807"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132512462807</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132512462807</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Offen, K. (2014).
 Historical geography III: Climate matters. <i>Progress in Human Geography</i>, <i>38</i>(3),
 476–489. </span><a href="https://doi.org/10.1177/0309132513501429"><span
-style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132513501429</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://doi.org/10.1177/0309132513501429</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Reitsma, F. (2008).
 Historical GIS: Technologies, methodologies and scholarship. <i>New Zealand
 Geographer</i>, <i>64</i>(2), 173–174. </span><a
 href="https://doi.org/10.1111/j.1745-7939.2008.136_5.x"><span style='font-size:
-12.0pt;line-height:115%'>https://doi.org/10.1111/j.1745-7939.2008.136_5.x</span></a></p>
+12.0pt;line-height:115%'>https://doi.org/10.1111/j.1745-7939.2008.136_5.x</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Rosebrock, A. (2016,
 March 28). Measuring size of objects in an image with OpenCV. PyImageSearch
 website: </span><a
 href="https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/"><span
-style='font-size:12.0pt;line-height:115%'>https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Singh, R. (2019, June
 10). Computer Vision—An Introduction. Medium website: </span><a
 href="https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7"><span
-style='font-size:12.0pt;line-height:115%'>https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7</span></a>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>Tilley C. (1994). <i>A
-Phenomenology of Landscape: Places, Paths and Monuments</i>. Oxford: Berg</span></p>
+Phenomenology of Landscape: Places, Paths and Monuments</i>. Oxford: Berg</span>
 
 <p class=MsoNormal style='margin-left:24.0pt;text-indent:-24.0pt;line-height:
 115%'><span style='font-size:12.0pt;line-height:115%'>van der Maaten, L., Boon,
@@ -721,10 +719,10 @@ Machine Learning for Archaeology. In J. T. Clark &amp; E. M. Hagermeister
 (Eds.), <i>Digital Discovery: Exploring New Frontiers in Human Heritage</i>
 (pp. 476–482). </span><a
 href="https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf"><span
-style='font-size:12.0pt;line-height:115%'>https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf</span></a></p>
+style='font-size:12.0pt;line-height:115%'>https://lvdmaaten.github.io/publications/papers/CAA_2006.pdf</span></a>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-200%'><span style='font-size:12.0pt;line-height:200%;font-family:"Times New Roman",serif'>&nbsp;</span></p>
+200%'><span style='font-size:12.0pt;line-height:200%;font-family:"Times New Roman",serif'>&nbsp;</span>
 
 </div>
 
