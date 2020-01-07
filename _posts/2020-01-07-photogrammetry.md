@@ -15,8 +15,8 @@ exceptionally well prepared with the technology available. A real sense of appre
 ability to translate material and non-material traces of the past in an effective, experiential, and intuitive way.
 
 
-Jumping forward a decade or so – in October 2015 I had just began to actually formalize my major in anthropology after taking 
-a couple intro to anthropology courses and getting hooked. I was taking the intro archaeology course with Dr. Jonathan Fowler at the time, 
+Jumping forward a decade or so – in October 2015 I had just began to actually formalize my major in anthropology at <a href="https://www.smu.ca/" target="_blank">Saint Mary's University</a> after taking 
+a couple intro to <a href="https://smu.ca/academics/departments/anthropology.html" target="_blank">anthropology</a> courses and getting hooked. I was taking the intro archaeology course with Dr. Jonathan Fowler at the time, 
 and I remember being ecstatic about the marriage of arts, science, technology, and the outdoors that archaeology offered. A few 
 classes into the semester Dr. Fowler mentioned that he could use volunteers to excavate on the weekend. I was in. We had learned about 
 <a href="https://digventures.com/2016/05/how-to-do-photogrammetry-for-archaeology-part-1/" target="_blank">photogrammetry</a> and its applications for recording an excavation in a prior class. Being the nerd I am, I decided to download a trial version 
