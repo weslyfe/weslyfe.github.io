@@ -3,7 +3,7 @@ layout: post
 title: Progress Report Assignment
 ---
 
-<span style='font-size:12.0pt;line-height:200%'> This post just consists of a final paper I wrote in the first semester of my MA at Saint Mary's University. The paper reflects on and relates my research to Progress Reports in <i>Progress in Human Geography </i>and <i>Progress in Physical Geography</i>. The primary goal of the paper is to begin to define the theoretical approach of the research as it relates to current developments in the field. It's incredible how much archaeology that can be found in these geography journals! Enjoy!</span>
+<span style='font-size:12.0pt;line-height:200%'> This post just consists of a final paper written first semester of my MA at Saint Mary's University. The paper reflects on and relates my research to Progress Reports in <i>Progress in Human Geography </i>and <i>Progress in Physical Geography</i>. The primary goal of the paper is to begin to define the theoretical approach of the research as it relates to current developments in the field. It's incredible how much archaeology that can be found in these geography journals! Enjoy!</span>
 
 
 <h1><span style='font-size:14.0pt;line-height:107%;font-variant:normal !important;
