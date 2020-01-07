@@ -84,4 +84,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+theme: jekyll-theme-midnight
