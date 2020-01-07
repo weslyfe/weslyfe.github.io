@@ -15,11 +15,35 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
   </head>
   <body>
       <div id="header">
-        <nav>
+        <ul>
           <li class="fork"><a href="/">Home</a></li>
           <li class="fork"><a href="/about">About</a></li>
           <li class="fork"><a href="https://sketchfab.com/weatherbeewesley" target="_blank">3D Models on Sketchfab</a></li>
@@ -28,7 +52,7 @@
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
             <li class="title">DOWNLOADS</li>
           {% endif %}
-        </nav>
+        </ul>
       </div><!-- end header -->
 
     <div class="wrapper">
