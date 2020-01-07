@@ -49,6 +49,7 @@ had lost its sheen. After modelling the first unit, I spent the money on purchas
 the artifact. I used much more forethought modelling and sharing this object. I used masks to mask out the background during processing, 
 and also decimated the mesh so that I no longer had multiple millions of faces to load. 
 
+
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/d7c2cdc3608d4e68a7c5840665c41ba8/embed?transparent=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -62,3 +63,5 @@ and also decimated the mesh so that I no longer had multiple millions of faces t
 There you have it. I've been hooked ever since, and plan to continue this blog to advance education and outreach on this topic and more 
 digital archaeology applications!
 
+
+<i>Wesley Weatherbee</i>
