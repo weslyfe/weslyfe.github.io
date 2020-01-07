@@ -20,7 +20,7 @@ a couple intro to <a href="https://smu.ca/academics/departments/anthropology.htm
 and I remember being ecstatic about the marriage of arts, science, technology, and the outdoors that archaeology offered. A few 
 classes into the semester Dr. Fowler mentioned that he could use volunteers to excavate on the weekend. I was in. We had learned about 
 <a href="https://digventures.com/2016/05/how-to-do-photogrammetry-for-archaeology-part-1/" target="_blank">photogrammetry</a> and its applications for recording an excavation in a prior class. Being the nerd I am, I decided to download a trial version 
-of <a href="https://www.agisoft.com/" target="_blank">Agisoft Photoscan</a> (now Metashape) and try my hand at it.
+of <a href="https://www.agisoft.com/" target="_blank">Agisoft Photoscan</a> and try my hand at it.
 
 
 I have since been continuing to record traces of the past using this method. The following is a collection of some of the things I've recorded from my <a href="https://www.sketchfab.com/" target="_blank">Sketchfab</a>.
@@ -45,7 +45,7 @@ took way too many pictures, and was not nearly as procedural as I am now with my
 ### Thomas Dormer Clay Pipe
 
 We found several datable objects within the charcoal feature in the excavation above, but one tobacco pipe was largely complete and 
-had lost its sheen due to burning. A perfect object for photogrammetry! After modelling the first unit, I spent the money on purchasing a student edition of Photoscan ( <a href="https://www.agisoft.com/buy/online-store/educational-license/" target="_blank">here for</a>$59USD ) and tried modelling 
+had lost its sheen due to burning. A perfect object for photogrammetry! After modelling the first unit, I spent the money on purchasing a student edition of Photoscan (now Metashape, <a href="https://www.agisoft.com/buy/online-store/educational-license/" target="_blank">here</a> for $59USD) and tried modelling 
 the artifact. I used much more forethought modelling and sharing this object. I used masks to mask out the background during processing, 
 and also decimated the mesh so that I no longer had multiple millions of faces to load. 
 
