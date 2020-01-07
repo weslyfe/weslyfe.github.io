@@ -7,25 +7,30 @@ I really enjoy all things digital, including capturing digital imagery. From the
 (I think 2002?) I've used digital imagery (photo and video) to capture and record traces of my experiences. It has been fulfilling 
 to say the least capturing traces of fleeting moments in a form of media that can be so easily copied, shared, and experienced. 
 
+
 I've also always had a curiosity of the past. As a child I remember watching documentaries from Nova, History, Discovery, and BBC. 
 These documentaries exposed me to 'state-of-the-art' tech applications that visualized all kinds of traces of the past. From landscapes, 
 to our hominid ancestors, early human civilizations, and even dinosaurs, in the 90's and early 2000's, traces of the past were being 
 exceptionally well prepared with the technology available. A real sense of appreciation developed for multimedia storytelling in its 
 ability to translate material and non-material traces of the past in an effective, experiential, and intuitive way.
 
-Jumping forward a decade or so – in October 2015 I had just began to actually began to formalize my major in anthropology after taking 
+
+Jumping forward a decade or so â€“ in October 2015 I had just began to actually began to formalize my major in anthropology after taking 
 a couple intro to anthropology courses and getting hooked. I was taking the intro archaeology course with Dr. Jonathan Fowler at the time, 
 and I remember being ecstatic about the marriage of arts, science, technology, and the outdoors that archaeology offered. A few 
 classes into the semester Dr. Fowler mentioned that he could use volunteers to excavate on the weekend. I was in. We had learned about 
 photogrammetry and its applications for recording an excavation in a prior class. Being the nerd I am, I decided to download a trial version 
 of Agisoft Photoscan and try my hand at it.
 
+
 I have since been continuing to record traces of the past using this method. The following is a collection of some of the things I've recorded.
 
 ### October 2015, Starting Out
 
+
 Here it is! The result of my first excavated unit and attempt at photogrammetry! I used an Android Galaxy S3 or something of the sort, 
 took way too many pictures, and was not nearly as procedural as I am now with my methodology. But aren't those profiles pretty?
+
 
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/0933e8de03784004a6164cd80db98d98/embed?transparent=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
