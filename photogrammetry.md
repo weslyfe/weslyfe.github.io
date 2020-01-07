@@ -14,7 +14,7 @@ to our hominid ancestors, early human civilizations, and even dinosaurs, in the 
 exceptionally well prepared with the technology available. A real sense of appreciation developed for multimedia storytelling in its 
 ability to translate material and non-material traces of the past in an effective, experiential, and intuitive way.
 
-Jumping forward a decade or so – in October 2015 I had just began to actually began to formalize my major in anthropology after taking 
+Jumping forward a decade or so â€“ in October 2015 I had just began to actually began to formalize my major in anthropology after taking 
 a couple intro to anthropology courses and getting hooked. I was taking the intro archaeology course with Dr. Jonathan Fowler at the time, 
 and I remember being ecstatic about the marriage of arts, science, technology, and the outdoors that archaeology offered. A few 
 classes into the semester Dr. Fowler mentioned that he could use volunteers to excavate on the weekend. I was in. We had learned about 
@@ -28,6 +28,7 @@ I have since been continuing to record traces of the past using this method. The
 Here it is! The result of my first excavated unit and attempt at photogrammetry! I used an Android Galaxy S3 or something of the sort, 
 took way too many pictures, and was not nearly as procedural as I am now with my methodology. But aren't those profiles pretty?
 
+<html>
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/0933e8de03784004a6164cd80db98d98/embed?transparent=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -37,6 +38,7 @@ took way too many pictures, and was not nearly as procedural as I am now with my
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
+</html>
 
 ### Thomas Dormer Clay Pipe
 
@@ -45,6 +47,7 @@ had lost its sheen. After modelling the first unit, I spent the money on purchas
 the artifact. I used much more forethought modelling and sharing this object. I used masks to mask out the background during processing, 
 and also decimated the mesh so that I no longer had multiple millions of faces to load. 
 
+<html>
 <div class="sketchfab-embed-wrapper">
     <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/d7c2cdc3608d4e68a7c5840665c41ba8/embed?transparent=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -54,4 +57,4 @@ and also decimated the mesh so that I no longer had multiple millions of faces t
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
-
+</html>
