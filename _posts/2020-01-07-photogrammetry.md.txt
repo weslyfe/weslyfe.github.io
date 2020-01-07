@@ -57,3 +57,6 @@ and also decimated the mesh so that I no longer had multiple millions of faces t
 There you have it. I've been hooked ever since, and plan to continue this blog to advance education and outreach on this topic and more 
 digital archaeology applications!
 
+<i>Wesley Weatherbee</i>
+
+
