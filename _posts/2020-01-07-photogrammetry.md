@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photogrammetry 1 How I began practicing archaeological photogrammetry and 3D modelling
+title: Photogrammetry 1 ─ How I began practicing archaeological photogrammetry and 3D modelling
 ---
 
 I really enjoy all things digital, including capturing digital imagery. From the time I began skateboarding at the age of 11 
