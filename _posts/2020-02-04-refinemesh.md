@@ -58,7 +58,7 @@ When decimating a model you lose important geometric detail, and there is no gua
 the software will filter out *only* noise. It seems like a lose-lose situation. Lowering 
 the resolution **AND** quality of the model.
 
-<h2><p style="text-align: center;"> "*Metashape's Photoconsistent Refine Mesh Tool!*"</p></h2>
+<h2><p style="text-align: center;"> "<i>Metashape's Photoconsistent Refine Mesh Tool!</i>"</p></h2>
 
 I've recently stumbled upon a tool that subtley came onto the scene in October 2017: **Refine Mesh**. 
 In my experience using the tool, it does a great job at smoothing noise while retaining important geometric 
@@ -68,7 +68,7 @@ mesh, but can be identified within your photos.
 According to Agisoft Metashape's user manual, for whom I've graciously fixed a typo: 
 
 ---
- <h2> <p style="text-align: center;"> "*Metashape allows to refine already reconstructed mesh with respect to camera photos. This is [an] iterative process that can further recover details on surface. For example it can recover bas-relief or ditch.*"</p> </h2>
+ <h3> <p style="text-align: center;"> "<i>Metashape allows to refine already reconstructed mesh with respect to camera photos. This is [an] iterative process that can further recover details on surface. For example it can recover bas-relief or ditch.</i>"</p> </h3>
 ---
 
 So let's take a look at before and after results of using the tool. 
