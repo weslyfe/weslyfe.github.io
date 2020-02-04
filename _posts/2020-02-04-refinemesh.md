@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increase the detail and lower resolution of your archaeological 3D models.
+title: Photogrammetry 3: How to increase the quality and decrease resolution of your archaeological 3D models.
 ---
 
 In our <a href="https://www.digitalarchns.com/masking/" target="_blank">last 
