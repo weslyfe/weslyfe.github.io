@@ -25,7 +25,7 @@ Below we can see the product of todays post.
 	<img src="/images/Comparison_z10.jpg"> 
 </p>
 <p align="center">
-<i><small>Visualization of a raw (before) and refined (after) mesh using multidirectional hillshade in ArcGIS with a 10x relief exaggeration.</i>
+<i><small>Visualization of a raw (before) and refined (after) mesh using multidirectional hillshade in ArcGIS with a 10x relief exaggeration.</small></i>
 <i><small>Scaled using measurements collected by digital caliper.</small></i>
 </p>
 
