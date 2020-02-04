@@ -26,7 +26,7 @@ Below we can see the product of todays post.
 </p>
 <p align="center">
 <i><small>Visualization of a raw (before) and refined (after) mesh using multidirectional hillshade in ArcGIS with a 10x relief exaggeration.</i>
-<i>Scaled using measurements collected by digital caliper.</small></i>
+<i><small>Scaled using measurements collected by digital caliper.</small></i>
 </p>
 
 The refined mesh shows a noticable reduction in noise and increase in detail. The comparison 
@@ -34,6 +34,7 @@ becomes more interesting realizing that the raw mesh has 9.5 million triangular 
 refined mesh only 722 thousand faces. Reducing the number of mesh faces equals dramatically reduced 
 output file size at face value. Smaller file sizes present an opportunity for us to better 
 communicate archaeological data through more accessible visualizations.
+
 ### Resolution vs. Quality
 
 Bad puns aside, I often worried about how I would share my 3D models until uncovering 
