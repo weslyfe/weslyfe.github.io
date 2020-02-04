@@ -22,7 +22,7 @@ Today we're only going to be simply visually evaluating geometric accuracy.
 Below we can see the product of todays post.
 
 <p align="center">
-	<img src="images/Comparison_z10.jpg"> 
+	<img src="/images/Comparison_z10.jpg"> 
 </p>
 <p align="center">
 <i><small>Visualization of a raw (before) and refined (after) mesh using multidirectional hillshade in ArcGIS with a 10x relief exaggeration.</i>
@@ -73,8 +73,8 @@ According to Agisoft Metashape's user manual, for whom I've graciously fixed a t
 So let's take a look at before and after results of using the tool. 
 
 <p align="center">
-	<img width="320" height="600" src="images/9MilMesh_RAW.jpg"> 
-	<img width="320" height="600" src="images/Refinement1Mesh_RAW.jpg">
+	<img width="320" height="600" src="/images/9MilMesh_RAW.jpg"> 
+	<img width="320" height="600" src="/images/Refinement1Mesh_RAW.jpg">
 </p>
 <p align="center">
 <i><small><b>LEFT</b>: High resolution mesh after processing, no mesh refinement. <b>RIGHT</b>: High resolution mesh after 1 iteration using *Refine Mesh*.</small></i>
@@ -93,8 +93,8 @@ with a low resolution output that was higher quality than my original high resol
 input. You can see the difference below.
 
 <p align="center">
-	<img width="320" height="600" src="images/9MilMesh_RAW.jpg"> 
-	<img width="320" height="600" src="images/Refinement8Mesh25k_RAW.jpg">
+	<img width="320" height="600" src="/images/9MilMesh_RAW.jpg"> 
+	<img width="320" height="600" src="/images/Refinement8Mesh25k_RAW.jpg">
 </p>
 <p align="center">
 <i><small><b>LEFT</b>: High resolution mesh (9.5 million faces) after processing, no mesh refinement. <b>RIGHT</b>: Low resolution mesh (25 thousand faces) after integrating <i>Refine Mesh</i> into this workflow.</small></i>
@@ -111,7 +111,7 @@ workflow. The workflow was repeated on the model above 8 times before decimating
 was 5 iterations that produced the best result. Check it out below.
 
 <p align="center">
-	<img width="320" height="600" src="images/Refinement5Mesh_RAW.jpg">
+	<img width="320" height="600" src="/images/Refinement5Mesh_RAW.jpg">
 </p>
 <p align="center">
 <i><small>Mesh after 5 iterations of the workflow integrating <i>Refine Mesh</i>.</small></i>
@@ -157,7 +157,7 @@ After running *Smooth Mesh*, the next step is running *Refine Mesh*.
 The input parameters in *Refine Mesh* are Quality, Iterations, and Smoothness. 
 
 <p align="center">
-	<img src="images/RefineMesh.png">
+	<img src="/images/RefineMesh.png">
 </p>
 <p align="center">
 <i><small>Refine Mesh dialog box.</small></i>
@@ -190,7 +190,7 @@ quality and the obvious loss of geometric accuracy when reducing the face count 
 25k.
 
 <p align="center">
-	<img width="320" height="600" src="images/mesh-gif.gif">
+	<img width="320" height="600" src="/images/mesh-gif.gif">
 </p>
 <p align="center">
 <i><small>Visualizing outputs of the workflow.</small></i>
@@ -219,7 +219,7 @@ tracks are well defined. The noise on the smooth surface stemming from a lack of
 also reduced. I haven't done more field testing but I was impressed with this quick experiment.
 
 <p align="center">
-	<img src="images/ballfield.jpg"></p>
+	<img src="/images/ballfield.jpg"></p>
 <p align="center">
 <small><b>Left</b>: Orthophoto. <b>Centre</b>: Raw DSM. <b>Right</b>: DSM after running <i>Refine Mesh</i></small>
 </p>
