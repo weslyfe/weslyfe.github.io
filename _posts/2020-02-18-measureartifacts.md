@@ -75,10 +75,7 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 
 <h3> File directory</h3>
 
-* artifact-area
-  * csv
-
-The source code comes as a `.zip` folder with the `artifact-area.py` file 
+The source code comes as a `.zip` folder containing the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`.
 
 The subfolder `images` is where you will place the image you would like to 
@@ -120,7 +117,24 @@ measure many more artifacts in a single image.
 <h3> Script usage and required modules</h3>
 
 ```py
-#USAGE
+"""
+ Title: Automated Rapid Artifact Surface Area Measurement from Imagery using Computer Vision
+ Author: Wesley Weatherbee
+ Date: February 2020
+ Description: This script is intended to rapidly collect artifact measurments 
+              using computer vision to rapidly measure many objects in a 
+              single image.
+ 
+ Modified from: https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+ Original Author: Adrian Rosebrock
+ Date: March 28, 2016 
+"""
+
+# USAGE
+# open command-line (cmd.exe) and change the directory to the 
+# directory where the file is loaded using: cd [path to directory here]
+# after changing the directory, enter the following code in command-line:
+# 
 # python artifact-area.py --image images/test_01.jpg --width 2.381
 
 # import the necessary packages
