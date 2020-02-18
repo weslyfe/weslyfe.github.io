@@ -78,13 +78,11 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`. Below is a diagram showing the structure.
 
-<ul><li>artifact-area
-	<li>csv</li>
-	<li>images
-		<li>test_01.jpg</li>
-	</li>
-	<li>artifact-area.py</li>
-</li></ul>
+* artifact-area
+    * csv
+    * images
+	    * test_01.jpg
+    * artifact-area.py
 	
 <i><small>File directory of ZIP folder.</small></i>
 
@@ -108,14 +106,13 @@ post</a>.
 
 A few things worthy of a note about the photo:
 
-<li>A background heavily contrasting the colour of the material being measured.</li><br />
+<li>A background heavily contrasting the colour of the material being measured.</li><br>
 
-<li>The quarter and its placement to the far left of the image. The quarter is used as a scale bar to convert one pixel to a measurement. Canadian quarters have a known diameter of 2.381cm.</li><br/>
+<li>The quarter and its placement to the far left of the image. The quarter is used as a scale bar to convert one pixel to a measurement. Canadian quarters have a known diameter of 2.381cm.</li><br>
 
-<li>The 90 degree angle of the photo. I know it is second nature for artifact photography to take the photo at 90 degrees. Here it is critical, as it impacts the accuracy of the resulting measurements. And I estimated. This definitely impacted the results, but the resulting accuracy is pretty good. A quick way to get your photos to 90 degrees without a tripod is to use a hot shoe bubble level.</li>
-<br/>
+<li>The 90 degree angle of the photo. I know it is second nature for artifact photography to take the photo at 90 degrees. Here it is critical, as it impacts the accuracy of the resulting measurements. And I estimated. This definitely impacted the results, but the resulting accuracy is pretty good. A quick way to get your photos to 90 degrees without a tripod is to use a hot shoe bubble level.</li><br>
 
-<li>You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of <i>false objects</i> in the results. This does raise the possibility of shooting from a higher vantage point to measure many more artifacts in a single image.</li>
+<li>You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of <i>false objects</i> in the results. This does raise the possibility of shooting high resolution images from a higher vantage point to measure many more artifacts in a single image.</li><br>
 
 <h3> Script usage and required modules</h3>
 
@@ -329,7 +326,7 @@ measure.append((dimA, dimB, SA))
 
 <h3> Visualizing the result</h3>
 
-To visualize the result, we first calculate the centreof the contour to anchor our ovaying text from. 
+To visualize the result, we first calculate the centre of the contour to anchor our ovaying text from. 
 Next, `cv2.drawContours` draws the contours in red `(0, 0, 255)`, the surface area measurement 
 is displayed in square centimetres with `cv2.putText`, the image is resized to fit within a bordered 
 window fully with `cv2.resize`, and the image is shown with `cv2.imshow`.
@@ -376,14 +373,14 @@ expected area is `4.45sqcm`, while our experimental result is `4.56sqcm`.
 
 ---
  <h3> <p style="text-align: center;"> <i>We achieved a difference of <b>0.11cm<sup>2</sup></b> between expected and experimental results.</i></p></h3>
- ---
+---
 
 A difference of 0.11cm<sup>2</sup> equates to a 2.41% error in our measurements using the following 
 formula:
 
 ---
  <h4> <p style="text-align: center;"> <i>PercentError = ((Experimental - Expected) / 100) / Expected</i> </p></h4>
- ---
+---
 
 That 2.41% error can be inversely expressed as **97.59% accuracy!** 
 
