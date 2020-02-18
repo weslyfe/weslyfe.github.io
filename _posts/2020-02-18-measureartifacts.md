@@ -47,7 +47,8 @@ in some cases, weights. They explain the reasons they believe surface area hadn'
 ---
  <h3> <p style="text-align: center;"> "<i>Measuring surface area ... will not likely be adopted by archaeologists unless a relatively simple technique is developed for obtaining such data.</i>" </p></h3>
  <h4> <p style="text-align: center;"> <i>Byrd & Owens, 1997</> </p></h4>
----
+ 
+ ---
 
 Well I'm happy to say thanks to Adrian at <a href="https://www.pyimagesearch.com/" target="_blank">PyImageSearch</a> 
 for creating his blog that allowed me to begin to adopt computer vision and machine learning 
@@ -79,10 +80,10 @@ The source code comes as a `.zip` folder with the `artifact-area.py` file
 and two subdirectories called `images` and `csv`. 
 
 * artifact-area
-- csv
-- images
-+ test_01.jpg
-- artifact-area.py
+	- csv
+	- images
+		+ test_01.jpg
+	- artifact-area.py
 	
 <i><small>File directory of `.zip` folder.</small></i>
 
