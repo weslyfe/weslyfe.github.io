@@ -14,6 +14,8 @@ originally developed by Adrian Rosebrock at <a href="https://www.pyimagesearch.c
 to measure objects in an image. The modified script additionally calculates 2D surface area for each 
 artifact and exports the measurements to a CSV file. 
 
+<a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/download/artifact-area.zip?raw=true" download>Download the script here.</a>
+
 <h2> Why use surface area?</h2>
 
 Artifact surface area can be used to give a measure of 
@@ -443,6 +445,8 @@ funding **and** time. I believe it is valuable to invest in computer literacy to
 Next post I'll be showing a useful script I wrote to help estimate the resolution of ground penetrating
 radar data in different soil conditions. As usual, if you have any comments don't hesitate to send them 
 along on the social media post or through email on the <a href="https://www.digitalarchns.com/about/" target="_blank">about page</a>.
+
+<a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/download/artifact-area.zip?raw=true" download>Download the script here!</a>
 
 *Wesley Weatherbee*
 
