@@ -3,8 +3,7 @@ layout: post
 title: A quarter and a camera ─ Measuring relative abundance of artifacts with computer vision in Python
 ---
 
-<a href="https://www.digitalarchns.com/refinemesh/" target="_blank">Last 
-week</a>, I showed how to pull some extra quality out of photogrammetric models.
+<a href="https://www.digitalarchns.com/refinemesh/" target="_blank">Previously</a>, I showed how to pull some extra quality out of photogrammetric models.
 
 This post is going to take a short dive into the world of <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">computer vision</a>.
 You'll learn how to deploy a <a href="https://www.python.org/" target="_blank">Python</a> script using 
