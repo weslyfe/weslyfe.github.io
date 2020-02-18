@@ -14,7 +14,7 @@ originally developed by Adrian Rosebrock at <a href="https://www.pyimagesearch.c
 to measure objects in an image. The modified script additionally calculates 2D surface area for each 
 artifact and exports the measurements to a CSV file. 
 
-## Why use surface area?
+<h2> Why use surface area?</h2>
 
 Artifact surface area can be used to give a measure of 
 **relative abundance** of artifact types in an analysis that is 
@@ -55,7 +55,7 @@ in python for my own archaeological uses. The following tutorial brings us one s
 the *simple technique* alluded to by Byrd and Owens using only **a quarter and a camera!**
 
 
-## Computer vision? 
+<h2> Computer vision?</h2>
 
 Computer vision is an interdisciplinary field of research devoted to “extract[ing] meaning from pixels” (<a href="https://towardsdatascience.com/computer-vision-an-introduction-bbc81743a2f7" target="_blank">Singh, 2019</a>). 
 
@@ -67,13 +67,13 @@ I'm assuming you already have `Python 3` and `OpenCV` installed, but if you don'
 please take the time to do so now. OpenCV now installs with `pip` so you can 
 install it when installing the other required modules.
 
-## The script
+<h2> The script</h2>
 
 Okay, so here we go. You can either read along and copy each code block 
 into your favorite text editor saving the file with a `.py` extension, or 
 you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/download/artifact-area.zip?raw=true" download>download the source code here</a>. 
 
-### File directory
+<h3> File directory</h3>
 
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`. Below is a diagram showing the structure.
@@ -148,7 +148,7 @@ you choose.
 
 
 
-### Define methods used in the script
+<h3> Define methods used in the script</h3>
 
 ```py
 # define the automatic canny edge detection method
@@ -190,7 +190,7 @@ args = vars(ap.parse_args())
 The argument parser is now constructed and reads the `--image` and `--width` 
 arguments defined in the command-line.
 
-### Loading and preprocessing the image
+<h3> Loading and preprocessing the image</h3>
 
 Now we use OpenCV to read the image defined in the command-line argument. We 
 convert it to grayscale then add a gaussian blur twice. First with a 9x9 kernel, 
@@ -213,7 +213,7 @@ edged = cv2.erode(edged, None, iterations=2)
 The `auto_canny` method is deployed on the blurred grayscale image. Dialation 
 and erosion are run on the resulting edge map to close the boundaries. 
 
-### Finding and sorting the contours
+<h3> Finding and sorting the contours</h3>
 
 Here closed boundary contours are identified in the image from left to right 
 in the image. We define the contours as the variable `cnt` and then sort them 
@@ -248,7 +248,7 @@ Lets visualize what we've done so far.
 <i><small>Visualization of the process up to this point.</small></i>
 </p>
 
-### Looping through the contours in the image
+<h3> Looping through the contours in the image</h3>
 
 The following `for` loop analyzes each of the contours individually. The first step is 
 to ignore contours with an area less than 10000 pixels.
@@ -327,7 +327,7 @@ one by one.
 measure.append((dimA, dimB, SA))
 ```
 
-### Visualizing the result
+<h3> Visualizing the result</h3>
 
 To visualize the result, we first calculate the centreof the contour to anchor our ovaying text from. 
 Next, `cv2.drawContours` draws the contours in red `(0, 0, 255)`, the surface area measurement 
@@ -364,7 +364,7 @@ cv2.waitKey(0)
 <i><small>Surface area of each flake visualized.</small></i>
 </p>
 
-### Accuracy check
+<h3> Accuracy check</h3>
 
 One huge benefit to this method aside from the obvious non-destructive nature, scalability, 
 and reproducability is the opportunity to **report the accuracy of your results!**
@@ -375,14 +375,14 @@ use this value to calculate the difference between the expected surface area for
 expected area is `4.45sqcm`, while our experimental result is `4.56sqcm`. 
 
 ---
- #### <p style="text-align: center;"> *We achieved a difference of **0.11cm<sup>2</sup>** between expected and experimental results.* </p>
+ <h4> <p style="text-align: center;"> <i>We achieved a difference of <b>0.11cm<sup>2</sup></b> between expected and experimental results.</i></h4> </p>
 ---
 
 A difference of 0.11cm<sup>2</sup> equates to a 2.41% error in our measurements using the following 
 formula:
 
 ---
- ##### <p style="text-align: center;"> *PercentError = ((Experimental - Expected) / 100) / Expected* </p>
+ <h5> <p style="text-align: center;"> *PercentError = ((Experimental - Expected) / 100) / Expected* </p></h5>
 ---
 
 That 2.41% error can be inversely expressed as **97.59% accuracy!** 
@@ -393,7 +393,7 @@ fairly exciting results!
 
 Of course, you can always improve the results by correcting for lens distortion and angle of capture.
 
-### Saving the data to csv
+<h3> Saving the data to csv</h3>
 
 After the `for` loop runs its course, the following codeblock exports the information stored 
 in the `measurements` list object to a `csv` file named `Measurements.csv` in the subdirectory `csv`.
@@ -410,7 +410,7 @@ non-destructively derive a measure of **relative abundance** of artifacts using 
 Not only that, but the ability of the script to measure many more artifacts than we did 
 from a single image is very enticing.
 
-## The results are in...
+<h2> The results are in...</h2>
 
 ...and we likely all agree that this method provides an effective, non-destructive 
 alternative to the technique proposed by Byrd and Owens for measuring **relative abundance** 
