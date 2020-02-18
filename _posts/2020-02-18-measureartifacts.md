@@ -194,7 +194,7 @@ of the flake. Still they are important metrics for checking the accuracy of your
 measurements using the quarter.
 
 ```py
-# construct the argument parse and parse the arguments
+# construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
 	help="path to the input image")
@@ -309,7 +309,7 @@ dA = dist.euclidean((tltrX, tltrY), (blbrX, blbrY))
 dB = dist.euclidean((tlblX, tlblY), (trbrX, trbrY))
 ```
 
-Below we communicsate that if `pixelsPerMetric` doesn't yet have a value, 
+Below we communicate that if `pixelsPerMetric` doesn't yet have a value, 
 then the computer must be reading the first contour. The first contour will 
 be the object farthest to the left of the image. The `X` dimension of this 
 contour in `pixels` divided by the `--width` argument provides the value 
