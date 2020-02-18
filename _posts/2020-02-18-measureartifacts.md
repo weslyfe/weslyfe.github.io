@@ -71,19 +71,18 @@ install it when installing the other required modules.
 
 Okay, so here we go. You can either read along and copy each code block 
 into your favorite text editor saving the file with a `.py` extension, or 
-you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/download/artifact-area.zip?raw=true" download>download the source 
-code here</a>. 
+you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/download/artifact-area.zip?raw=true" download>download the source code here</a>. 
 
 ### File directory
 
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`. 
 
-* artifact-area
-	- csv
-	- images
-		+ test_01.jpg
-	- artifact-area.py
+⋅⋅* artifact-area
+	⋅⋅- csv
+	⋅⋅- images
+		⋅⋅+ test_01.jpg
+	⋅⋅- artifact-area.py
 	
 <i><small>File directory of `.zip` folder.</small></i>
 
