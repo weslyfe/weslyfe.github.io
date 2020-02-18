@@ -110,10 +110,10 @@ A few things worthy of a note about the photo:
 
 <li>A background heavily contrasting the colour of the material being measured.</li><br />
 
-<li>The quarter and its placement to the far left of the image. The quarter is used as a scale bar to convert one pixel to a measurement. Canadian quarters have a known diameter of 2.381cm.</li><br />
+<li>The quarter and its placement to the far left of the image. The quarter is used as a scale bar to convert one pixel to a measurement. Canadian quarters have a known diameter of 2.381cm.</li><br/>
 
 <li>The 90 degree angle of the photo. I know it is second nature for artifact photography to take the photo at 90 degrees. Here it is critical, as it impacts the accuracy of the resulting measurements. And I estimated. This definitely impacted the results, but the resulting accuracy is pretty good. A quick way to get your photos to 90 degrees without a tripod is to use a hot shoe bubble level.</li>
-<br />
+<br/>
 
 <li>You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of <i>false objects</i> in the results. This does raise the possibility of shooting from a higher vantage point to measure many more artifacts in a single image.</li>
 
