@@ -84,7 +84,7 @@ and two subdirectories called `images` and `csv`.
 		+ test_01.jpg
 	- artifact-area.py
 	
-<i><small>File directory of `.zip` folder.</small></i>
+<i><small>File directory of ZIP folder.</small></i>
 
 
 The subfolder `images` is where you will place the image you would like to 
@@ -101,7 +101,7 @@ post</a>.
 <img src="/images/test_01.JPG"> 
 </p>
 <p align="center">
-<i><small>Tutorial image `test_01.jpg`.</small></i>
+<i><small>Tutorial image.</small></i>
 </p>
 
 A few things worthy of a note about the photo:
