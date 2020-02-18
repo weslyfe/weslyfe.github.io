@@ -126,8 +126,7 @@ distance I was created a lot of 'false objects' in the results. This does raise 
 possibility of shooting from a higher vantage point to measure many more artifacts 
 in a single image.
 
-
-### Script usage and required modules
+<h3> Script usage and required modules</h3>
 
 ```
 #USAGE
