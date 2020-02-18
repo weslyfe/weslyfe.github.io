@@ -375,7 +375,7 @@ use this value to calculate the difference between the expected surface area for
 expected area is `4.45sqcm`, while our experimental result is `4.56sqcm`. 
 
 ---
- <h4> <p style="text-align: center;"> <i>We achieved a difference of <b>0.11cm<sup>2</sup></b> between expected and experimental results.</i></h4> </p>
+ <h3> <p style="text-align: center;"> <i>We achieved a difference of <b>0.11cm<sup>2</sup></b> between expected and experimental results.</i></h3> </p>
  
 ---
 
@@ -383,7 +383,7 @@ A difference of 0.11cm<sup>2</sup> equates to a 2.41% error in our measurements 
 formula:
 
 ---
- <h5> <p style="text-align: center;"> *PercentError = ((Experimental - Expected) / 100) / Expected* </p></h5>
+ <h4> <p style="text-align: center;"> *PercentError = ((Experimental - Expected) / 100) / Expected* </p></h4>
  
 ---
 
