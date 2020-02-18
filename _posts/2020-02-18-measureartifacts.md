@@ -75,10 +75,11 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 
 <h3> File directory</h3>
 
-The source code comes as a `.zip` folder with the `artifact-area.py` file 
-and two subdirectories called `images` and `csv`. Below is a diagram showing the structure.
+* artifact-area
+  * csv
 
-*  ``artifact-area``
+The source code comes as a `.zip` folder with the `artifact-area.py` file 
+and two subdirectories called `images` and `csv`.
 
 The subfolder `images` is where you will place the image you would like to 
 analyze, and `csv` is where the `.csv` file is saved to after measuring.
