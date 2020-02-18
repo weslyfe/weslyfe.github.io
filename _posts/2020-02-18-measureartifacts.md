@@ -117,7 +117,7 @@ photography to take the photo at 90-degrees. Here it is critical, as it
 impacts the accuracy of the resulting measurements. And I estimated. This 
 definitely impacted the results slightly, but the resulting accuracy is pretty 
 good. A quick way to get your photos to 90-degrees without a tripod is to use 
-a hot shoe bubble level like <a href="https://www.amazon.ca/FOME-Standard-Including-Panasonic-Fujifilm/dp/B074KKPBVN/ref=pd_sbs_504_img_1/143-9084646-5389201?_encoding=UTF8&pd_rd_i=B074KKPBVN&pd_rd_r=53992c9c-d1fc-41c8-9b71-b61f72885216&pd_rd_w=77v9U&pd_rd_wg=Fy9a9&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=XZM2ZMWKY7B08X49C859&psc=1&refRID=XZM2ZMWKY7B08X49C859" target="_blank"> 
+a hot shoe bubble level like <a href="https://www.amzn.com/B072HDDX4Z" target="_blank"> 
 this one on Amazon</a>.
 
 4. You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL 
