@@ -78,11 +78,7 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`. Below is a diagram showing the structure.
 
-artifact-area
-  csv
-  images
-    test_01.jpg
-  artifact-area.py
+
 
 The subfolder `images` is where you will place the image you would like to 
 analyze, and `csv` is where the `.csv` file is saved to after measuring.
@@ -107,11 +103,19 @@ A few things worthy of a note about the photo:
 
 - The lighting is not great.
 
-- The quarter and its placement to the far left of the image. The quarter is used as a scale bar to convert one pixel to a measurement. Canadian quarters have a known diameter of 2.381cm.
+- The quarter and its placement to the far left of the image. The quarter is used as a scale bar to convert one pixel to a measurement. 
+Canadian quarters have a known diameter of 2.381cm.
 
-- The 90 degree angle of the photo. I know it is second nature for artifact photography to take the photo at 90 degrees. Here it is critical, as it impacts the accuracy of the resulting measurements. And I estimated. This definitely impacted the results, but the resulting accuracy is pretty good. A quick way to get your photos to 90 degrees without a tripod is to use a hot shoe bubble level.
+- The 90 degree angle of the photo. I know it is second nature for artifact photography to take the photo at 90 degrees. Here it is 
+critical, as it impacts the accuracy of the resulting measurements. And I estimated. This definitely impacted the results, but the 
+resulting accuracy is pretty good. A quick way to get your photos to 90 degrees without a tripod is to use a hot shoe bubble level.
 
-- You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of false objects in the results. This does raise the possibility of shooting high resolution images from a higher vantage point to measure many more artifacts in a single image.
+- You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without 
+heavy noise during processing. 
+
+It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of false objects in the 
+results. This does raise the possibility of shooting high resolution images from a higher vantage point to measure many more artifacts 
+in a single image.
 
 
 <h3> Script usage and required modules</h3>
