@@ -45,8 +45,8 @@ that gives a better measurement of **relative abundance** than a simple counts a
 in some cases, weights. They explain the reasons they believe surface area hadn't been adopted:
 
 ---
- <h3> <p style="text-align: center;"> "*Measuring surface area ... will not likely be adopted by archaeologists unless a relatively simple technique is developed for obtaining such data.*" </p></h3>
- <h4> <p style="text-align: center;"> *Byrd & Owens, 1997* </p></h4>
+ <h3> <p style="text-align: center;"> "<i>Measuring surface area ... will not likely be adopted by archaeologists unless a relatively simple technique is developed for obtaining such data.</i>" </p></h3>
+ <h4> <p style="text-align: center;"> <i>Byrd & Owens, 1997</> </p></h4>
 ---
 
 Well I'm happy to say thanks to Adrian at <a href="https://www.pyimagesearch.com/" target="_blank">PyImageSearch</a> 
@@ -78,11 +78,11 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`. 
 
-⋅⋅* artifact-area
-	⋅⋅- csv
-	⋅⋅- images
-		⋅⋅+ test_01.jpg
-	⋅⋅- artifact-area.py
+* artifact-area
+- csv
+- images
++ test_01.jpg
+- artifact-area.py
 	
 <i><small>File directory of `.zip` folder.</small></i>
 
@@ -106,10 +106,12 @@ post</a>.
 
 A few things worthy of a note about the photo:
 
-1. A background heavily contrasting the colour of the material being measured 
+1. A background heavily contrasting the colour of the material being measured.
+
 2. The quarter and its placement to the far left of the image. The quarter is used 
 as a scale bar to convert one pixel to a measurement. Canadian quarters have 
 a known diameter of `2.381cm`.
+
 3. The 90-degree angle of the photo. I know it is second nature for artifact 
 photography to take the photo at 90-degrees. Here it is critical, as it 
 impacts the accuracy of the resulting measurements. And I estimated. This 
@@ -117,6 +119,7 @@ definitely impacted the results slightly, but the resulting accuracy is pretty
 good. A quick way to get your photos to 90-degrees without a tripod is to use 
 a hot shoe bubble level like <a href="https://www.amazon.ca/FOME-Standard-Including-Panasonic-Fujifilm/dp/B074KKPBVN/ref=pd_sbs_504_img_1/143-9084646-5389201?_encoding=UTF8&pd_rd_i=B074KKPBVN&pd_rd_r=53992c9c-d1fc-41c8-9b71-b61f72885216&pd_rd_w=77v9U&pd_rd_wg=Fy9a9&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=XZM2ZMWKY7B08X49C859&psc=1&refRID=XZM2ZMWKY7B08X49C859" target="_blank"> 
 this one on Amazon</a>.
+
 4. You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL 
 T5i to the lowest setting to obtain photos without heavy noise during processing. 
 It seems counter-intuitive to take low quality photos, but the extra detail at the 
