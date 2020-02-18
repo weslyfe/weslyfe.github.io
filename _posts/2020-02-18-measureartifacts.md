@@ -80,12 +80,11 @@ and two subdirectories called `images` and `csv`.
 
 <ul>
 	<li>artifact-area
+		<li>csv</li>
+		<li>images</li>
 		<ul>
-			<li>csv</li>
-			<li>images</li>
+			<li>test_01.jpg</li>
 		</ul>
-	</li>
-	<li>test_01.jpg</li>
 	<li>artifact-area.py</li>
 </ul>
 	
