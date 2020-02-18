@@ -85,7 +85,7 @@ analyze, and `csv` is where the `.csv` file is saved to after measuring.
 Inside `images` you will find a single image named `test_01.jpg`. This 
 is the image used in the tutorial below. The image contains a Canadian quarter 
 and a series of lithic flakes produced preparing the biface for the 
-<a href="https://skfb.ly/6PHrD" target="_blank">3D model</a> I knapped, 
+<a href="https://skfb.ly/6QrSw" target="_blank">3D model</a> I knapped, 
 shown in <a href="https://www.digitalarchns.com/Masking3dModels/" target="_blank">a previous 
 post</a>.
 
