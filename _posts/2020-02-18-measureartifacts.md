@@ -98,23 +98,23 @@ and a series of lithic flakes produced preparing the biface for the
 shown in <a href="https://www.digitalarchns.com/Masking3dModels/" target="_blank">a previous 
 post</a>.
 
-![Image1](images/test_01.jpg)
+![Image1](/images/test_01.jpg)
 <i><small>Tutorial image `test_01.jpg`.</small></i>
 
 A few things worthy of a note about the photo:
 
-* A background heavily contrasting the colour of the material being measured 
-* The quarter and its placement to the far left of the image. The quarter is used 
+1. A background heavily contrasting the colour of the material being measured 
+2. The quarter and its placement to the far left of the image. The quarter is used 
 as a scale bar to convert one pixel to a measurement. Canadian quarters have 
 a known diameter of `2.381cm`.
-* The 90-degree angle of the photo. I know it is second nature for artifact 
+3. The 90-degree angle of the photo. I know it is second nature for artifact 
 photography to take the photo at 90-degrees. Here it is critical, as it 
 impacts the accuracy of the resulting measurements. And I estimated. This 
 definitely impacted the results slightly, but the resulting accuracy is pretty 
 good. A quick way to get your photos to 90-degrees without a tripod is to use 
 a hot shoe bubble level like <a href="https://www.amazon.ca/FOME-Standard-Including-Panasonic-Fujifilm/dp/B074KKPBVN/ref=pd_sbs_504_img_1/143-9084646-5389201?_encoding=UTF8&pd_rd_i=B074KKPBVN&pd_rd_r=53992c9c-d1fc-41c8-9b71-b61f72885216&pd_rd_w=77v9U&pd_rd_wg=Fy9a9&pf_rd_p=9926bb69-42b9-46e4-b788-f665992e326d&pf_rd_r=XZM2ZMWKY7B08X49C859&psc=1&refRID=XZM2ZMWKY7B08X49C859" target="_blank"> 
 this one on Amazon</a>.
-* You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL 
+4. You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL 
 T5i to the lowest setting to obtain photos without heavy noise during processing. 
 It seems counter-intuitive to take low quality photos, but the extra detail at the 
 distance I was created a lot of 'false objects' in the results. This does raise the 
@@ -246,7 +246,7 @@ measure = []
 
 Lets visualize what we've done so far.
 
-![Image2](images/sequence.gif)
+![Image2](/images/sequence.gif)
 <i><small>Visualization of the process up to this point.</small></i>
 
 ### Looping through the contours in the image
@@ -357,7 +357,7 @@ window fully with `cv2.resize`, and the image is shown with `cv2.imshow`.
 	cv2.waitKey(0)
 ```
 
-![Image3](images/contours.gif)
+![Image3](/images/contours.gif)
 
 ### Accuracy check
 
