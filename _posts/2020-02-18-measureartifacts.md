@@ -98,7 +98,7 @@ shown in <a href="https://www.digitalarchns.com/Masking3dModels/" target="_blank
 post</a>.
 
 <p align="center">
-	<img src="/images/test_01.jpg"> 
+<img src="/images/test_01.JPG"> 
 </p>
 <p align="center">
 <i><small>Tutorial image `test_01.jpg`.</small></i>
