@@ -78,11 +78,16 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`. 
 
-* artifact-area
-	- csv
-	- images
-		+ test_01.jpg
-	- artifact-area.py
+<ul>
+	<li>artifact-area
+		<ul>
+			<li>csv</li>
+			<li>images</li>
+		</ul>
+	</li>
+	<li>test_01.jpg</li>
+	<li>artifact-area.py</li>
+</ul>
 	
 <i><small>File directory of ZIP folder.</small></i>
 
@@ -107,18 +112,21 @@ post</a>.
 A few things worthy of a note about the photo:
 
 <ul>
-<li>1. A background heavily contrasting the colour of the material being measured.</li>
+<li>A background heavily contrasting the colour of the material being measured.
+</li>
 
-<li>2. The quarter and its placement to the far left of the image. The quarter is used 
+<li>The quarter and its placement to the far left of the image. The quarter is used 
 as a scale bar to convert one pixel to a measurement. Canadian quarters have 
-a known diameter of `2.381cm`.</li>
+a known diameter of `2.381cm`.
+</li>
 
-<li>3. The 90-degree angle of the photo. I know it is second nature for artifact 
+<li>The 90-degree angle of the photo. I know it is second nature for artifact 
 photography to take the photo at 90-degrees. Here it is critical, as it 
 impacts the accuracy of the resulting measurements. And I estimated. This 
 definitely impacted the results slightly, but the resulting accuracy is pretty 
 good. A quick way to get your photos to 90-degrees without a tripod is to use 
-a hot shoe bubble level.</li>
+a hot shoe bubble level.
+</li>
 
 <li>You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL 
 T5i to the lowest setting to obtain photos without heavy noise during processing. 
