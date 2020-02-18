@@ -45,8 +45,8 @@ that gives a better measurement of **relative abundance** than a simple counts a
 in some cases, weights. They explain the reasons they believe surface area hadn't been adopted:
 
 ---
- ### <p style="text-align: center;"> "*Measuring surface area ... will not likely be adopted by archaeologists unless a relatively simple technique is developed for obtaining such data.*" </p>
- #### <p style="text-align: center;"> *Byrd & Owens, 1997* </p>
+ <h3> <p style="text-align: center;"> "*Measuring surface area ... will not likely be adopted by archaeologists unless a relatively simple technique is developed for obtaining such data.*" </p></h3>
+ <h4> <p style="text-align: center;"> *Byrd & Owens, 1997* </p></h4>
 ---
 
 Well I'm happy to say thanks to Adrian at <a href="https://www.pyimagesearch.com/" target="_blank">PyImageSearch</a> 
@@ -98,8 +98,12 @@ and a series of lithic flakes produced preparing the biface for the
 shown in <a href="https://www.digitalarchns.com/Masking3dModels/" target="_blank">a previous 
 post</a>.
 
-![Image1](/images/test_01.jpg)
+<p align="center">
+	<img src="/images/test_01.jpg"> 
+</p>
+<p align="center">
 <i><small>Tutorial image `test_01.jpg`.</small></i>
+</p>
 
 A few things worthy of a note about the photo:
 
@@ -246,8 +250,12 @@ measure = []
 
 Lets visualize what we've done so far.
 
-![Image2](/images/sequence.gif)
+<p align="center">
+	<img src="/images/sequence.gif"> 
+</p>
+<p align="center">
 <i><small>Visualization of the process up to this point.</small></i>
+</p>
 
 ### Looping through the contours in the image
 
@@ -357,7 +365,12 @@ window fully with `cv2.resize`, and the image is shown with `cv2.imshow`.
 	cv2.waitKey(0)
 ```
 
-![Image3](/images/contours.gif)
+<p align="center">
+	<img src="/images/contours.gif"> 
+</p>
+<p align="center">
+<i><small>Surface area of each flake visualized.</small></i>
+</p>
 
 ### Accuracy check
 
