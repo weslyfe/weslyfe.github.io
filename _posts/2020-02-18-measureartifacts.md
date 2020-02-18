@@ -376,6 +376,7 @@ expected area is `4.45sqcm`, while our experimental result is `4.56sqcm`.
 
 ---
  <h4> <p style="text-align: center;"> <i>We achieved a difference of <b>0.11cm<sup>2</sup></b> between expected and experimental results.</i></h4> </p>
+ 
 ---
 
 A difference of 0.11cm<sup>2</sup> equates to a 2.41% error in our measurements using the following 
@@ -383,6 +384,7 @@ formula:
 
 ---
  <h5> <p style="text-align: center;"> *PercentError = ((Experimental - Expected) / 100) / Expected* </p></h5>
+ 
 ---
 
 That 2.41% error can be inversely expressed as **97.59% accuracy!** 
