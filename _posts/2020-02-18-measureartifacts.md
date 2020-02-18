@@ -79,14 +79,11 @@ The source code comes as a `.zip` folder with the `artifact-area.py` file
 and two subdirectories called `images` and `csv`. Below is a diagram showing the structure.
 
 <li>artifact-area
-	<ul>
-		<li>csv</li>
-		<li>images</li>
-		<ul>
-			<li>test_01.jpg</li>
-		</ul>
-		<li>artifact-area.py</li>
-	</ul>
+	<li>csv</li>
+	<li>images
+		<li>test_01.jpg</li>
+	</li>
+	<li>artifact-area.py</li>
 </li>
 	
 <i><small>File directory of ZIP folder.</small></i>
@@ -117,7 +114,7 @@ A few things worthy of a note about the photo:
 
 <li>The 90 degree angle of the photo. I know it is second nature for artifact photography to take the photo at 90 degrees. Here it is critical, as it impacts the accuracy of the resulting measurements. And I estimated. This definitely impacted the results, but the resulting accuracy is pretty good. A quick way to get your photos to 90 degrees without a tripod is to use a hot shoe bubble level.</li>
 
-4. You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of <i>false objects</i> in the results. This does raise the possibility of shooting from a higher vantage point to measure many more artifacts in a single image.
+<li>You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of <i>false objects</i> in the results. This does raise the possibility of shooting from a higher vantage point to measure many more artifacts in a single image.</li>
 
 <h3> Script usage and required modules</h3>
 
