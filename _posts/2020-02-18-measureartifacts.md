@@ -46,7 +46,7 @@ in some cases, weights. They explain the reasons they believe surface area hadn'
 
 ---
  <h3> <p style="text-align: center;"> "<i>Measuring surface area ... will not likely be adopted by archaeologists unless a relatively simple technique is developed for obtaining such data.</i>" </p></h3>
- <h4> <p style="text-align: center;"> <i>Byrd & Owens, 1997</i> </p></h4>
+ <h4> <p style="text-align: center;"> <i>Byrd & Owens, 1997</i></p></h4>
  ---
 
 Well I'm happy to say thanks to Adrian at <a href="https://www.pyimagesearch.com/" target="_blank">PyImageSearch</a> 
