@@ -125,7 +125,7 @@ A few things worthy of a note about the photo:
 
 <h3> Script usage and required modules</h3>
 
-```
+```py
 #USAGE
 # python artifact-area.py --image images/test_01.jpg --width 2.381
 
@@ -156,7 +156,7 @@ you choose.
 
 ### Define methods used in the script
 
-```
+```py
 # define the automatic canny edge detection method
 def auto_canny(image, sigma=0.33):
 	# compute the median of the single channel pixel intensities
@@ -183,7 +183,7 @@ because they don't follow the axis running from striking platform to termination
 of the flake. Still they are important metrics for checking the accuracy of your 
 measurements using the quarter.
 
-```
+```py
 # construct the argument parse and parse the arguments
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
@@ -202,7 +202,7 @@ Now we use OpenCV to read the image defined in the command-line argument. We
 convert it to grayscale then add a gaussian blur twice. First with a 9x9 kernel, 
 then a 5x5 kernel.
 
-```
+```py
 # load the image, convert it to grayscale, and blur it slightly, twice
 image = cv2.imread(args["image"])
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -225,7 +225,7 @@ Here closed boundary contours are identified in the image from left to right
 in the image. We define the contours as the variable `cnt` and then sort them 
 from left to right. 
 
-```
+```py
 # find contours in the edge map
 cnts = cv2.findContours(edged.copy(), cv2.RETR_EXTERNAL,
 	cv2.CHAIN_APPROX_SIMPLE)
@@ -240,7 +240,7 @@ pixelsPerMetric = None
 Lastly, we create a list object called `measure` to hold the values measured 
 from each contour in the image.
 
-```
+```py
 # create list object
 measure = []
 ```
@@ -259,7 +259,8 @@ Lets visualize what we've done so far.
 The following `for` loop analyzes each of the contours individually. The first step is 
 to ignore contours with an area less than 10000 pixels.
 
-```# loop over the contours individually
+```py
+# loop over the contours individually
 for c in cnts:
 	# if the contour is not sufficiently large, ignore it
 	if cv2.contourArea(c) < 10000:
@@ -269,7 +270,7 @@ for c in cnts:
 The next codeblock creates a properly rotated bounding box around each contour, 
 and X and Y measurements in pixels. 
 
-```
+```py
 	# compute the rotated bounding box of the contour
 	orig = image.copy()
 	box = cv2.minAreaRect(c)
@@ -306,7 +307,7 @@ of `pixelsPerMetric`. This is why it is integral to have the reference to the
 left in these images.
 
 
-```
+```py
 	# if the pixels per metric has not been initialized, then
 	# compute it as the ratio of pixels to supplied metric
 	# (in this case, inches)
@@ -317,7 +318,7 @@ left in these images.
 Now we calculate our measurements using our (possibly) newly defined conversion 
 factor of `pixelsPerMetric`.
 
-```
+```py
 	# compute the size and surface area of the object
 	dimA = (dA / pixelsPerMetric)
 	dimB = (dB / pixelsPerMetric)
@@ -327,7 +328,7 @@ factor of `pixelsPerMetric`.
 And, lastly, the measurements are appended to the python list object `measure` 
 one by one.
 
-```
+```py
 	# add measurements to list
 	measure.append((dimA, dimB, SA))
 ```
@@ -339,7 +340,7 @@ Next, `cv2.drawContours` draws the contours in red `(0, 0, 255)`, the surface ar
 is displayed in square centimetres with `cv2.putText`, the image is resized to fit within a bordered 
 window fully with `cv2.resize`, and the image is shown with `cv2.imshow`.
 
-```
+```py
 	# compute centre of the contour
 	M = cv2.moments(c)
 	cX = int(M["m10"] / M["m00"])
