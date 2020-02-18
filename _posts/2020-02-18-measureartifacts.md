@@ -113,15 +113,13 @@ post</a>.
 
 A few things worthy of a note about the photo:
 
-<ul>
 <li>A background heavily contrasting the colour of the material being measured.</li>
 
 <li>The quarter and its placement to the far left of the image. The quarter is used as a scale bar to convert one pixel to a measurement. Canadian quarters have a known diameter of 2.381cm.</li>
 
 <li>The 90 degree angle of the photo. I know it is second nature for artifact photography to take the photo at 90 degrees. Here it is critical, as it impacts the accuracy of the resulting measurements. And I estimated. This definitely impacted the results, but the resulting accuracy is pretty good. A quick way to get your photos to 90 degrees without a tripod is to use a hot shoe bubble level.</li>
 
-<li>You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of <i>false objects</i> in the results. This does raise the possibility of shooting from a higher vantage point to measure many more artifacts in a single image.</li>
-</ul>	
+4. You likely can't notice, but I had to turn the photo quality on my Canon EOS REBEL T5i to the lowest setting to obtain photos without heavy noise during processing. It seems counter-intuitive to take low quality photos, but the extra detail at the distance I was created a lot of <i>false objects</i> in the results. This does raise the possibility of shooting from a higher vantage point to measure many more artifacts in a single image.
 
 <h3> Script usage and required modules</h3>
 
@@ -271,32 +269,32 @@ The next codeblock creates a properly rotated bounding box around each contour,
 and X and Y measurements in pixels. 
 
 ```py
-	# compute the rotated bounding box of the contour
-	orig = image.copy()
-	box = cv2.minAreaRect(c)
-	box = cv2.cv.BoxPoints(box) if imutils.is_cv2() else cv2.boxPoints(box)
-	box = np.array(box, dtype="int")
+# compute the rotated bounding box of the contour
+orig = image.copy()
+box = cv2.minAreaRect(c)
+box = cv2.cv.BoxPoints(box) if imutils.is_cv2() else cv2.boxPoints(box)
+box = np.array(box, dtype="int")
 
-	# order the points in the contour such that they appear
-	# in top-left, top-right, bottom-right, and bottom-left
-	# order.
-	box = perspective.order_points(box)
+# order the points in the contour such that they appear
+# in top-left, top-right, bottom-right, and bottom-left
+# order.
+box = perspective.order_points(box)
 
-	# unpack the ordered bounding box, then compute the midpoint
-	# between the top-left and top-right coordinates, followed by
-	# the midpoint between bottom-left and bottom-right coordinates
-	(tl, tr, br, bl) = box
-	(tltrX, tltrY) = midpoint(tl, tr)
-	(blbrX, blbrY) = midpoint(bl, br)
+# unpack the ordered bounding box, then compute the midpoint
+# between the top-left and top-right coordinates, followed by
+# the midpoint between bottom-left and bottom-right coordinates
+(tl, tr, br, bl) = box
+(tltrX, tltrY) = midpoint(tl, tr)
+(blbrX, blbrY) = midpoint(bl, br)
 
-	# compute the midpoint between the top-left and top-right points,
-	# followed by the midpoint between the top-right and bottom-right
-	(tlblX, tlblY) = midpoint(tl, bl)
-	(trbrX, trbrY) = midpoint(tr, br)
+# compute the midpoint between the top-left and top-right points,
+# followed by the midpoint between the top-right and bottom-right
+(tlblX, tlblY) = midpoint(tl, bl)
+(trbrX, trbrY) = midpoint(tr, br)
 
-	# compute the Euclidean distance between the midpoints
-	dA = dist.euclidean((tltrX, tltrY), (blbrX, blbrY))
-	dB = dist.euclidean((tlblX, tlblY), (trbrX, trbrY))
+# compute the Euclidean distance between the midpoints
+dA = dist.euclidean((tltrX, tltrY), (blbrX, blbrY))
+dB = dist.euclidean((tlblX, tlblY), (trbrX, trbrY))
 ```
 
 Below we communicsate that if `pixelsPerMetric` doesn't yet have a value, 
@@ -308,29 +306,29 @@ left in these images.
 
 
 ```py
-	# if the pixels per metric has not been initialized, then
-	# compute it as the ratio of pixels to supplied metric
-	# (in this case, inches)
-	if pixelsPerMetric is None:
-		pixelsPerMetric = dB / args["width"]
+# if the pixels per metric has not been initialized, then
+# compute it as the ratio of pixels to supplied metric
+# (in this case, inches)
+if pixelsPerMetric is None:
+	pixelsPerMetric = dB / args["width"]
 ```
 
 Now we calculate our measurements using our (possibly) newly defined conversion 
 factor of `pixelsPerMetric`.
 
 ```py
-	# compute the size and surface area of the object
-	dimA = (dA / pixelsPerMetric)
-	dimB = (dB / pixelsPerMetric)
-	SA = ((cv2.contourArea(c) / pixelsPerMetric) / pixelsPerMetric)
+# compute the size and surface area of the object
+dimA = (dA / pixelsPerMetric)
+dimB = (dB / pixelsPerMetric)
+SA = ((cv2.contourArea(c) / pixelsPerMetric) / pixelsPerMetric)
 ```
 
 And, lastly, the measurements are appended to the python list object `measure` 
 one by one.
 
 ```py
-	# add measurements to list
-	measure.append((dimA, dimB, SA))
+# add measurements to list
+measure.append((dimA, dimB, SA))
 ```
 
 ### Visualizing the result
@@ -341,26 +339,26 @@ is displayed in square centimetres with `cv2.putText`, the image is resized to f
 window fully with `cv2.resize`, and the image is shown with `cv2.imshow`.
 
 ```py
-	# compute centre of the contour
-	M = cv2.moments(c)
-	cX = int(M["m10"] / M["m00"])
-	cY = int(M["m01"] / M["m00"])
+# compute centre of the contour
+M = cv2.moments(c)
+cX = int(M["m10"] / M["m00"])
+cY = int(M["m01"] / M["m00"])
 
-	# draw contours in red
-	cv2.drawContours(orig, [c.astype("int")], -1, (0, 0, 255), 2)
+# draw contours in red
+cv2.drawContours(orig, [c.astype("int")], -1, (0, 0, 255), 2)
 
-	# draw the object area on the image
-	cv2.putText(orig, "{:.2f}sqcm".format(SA),
-		(int (cX), int (cY)), cv2.FONT_HERSHEY_SIMPLEX,
-			0.65, (0, 0, 0), 3)
-	cv2.putText(orig, "{:.2f}sqcm".format(SA),
-		(int (cX), int (cY)), cv2.FONT_HERSHEY_SIMPLEX,
-			0.65, (255, 255, 255), 2)
+# draw the object area on the image
+cv2.putText(orig, "{:.2f}sqcm".format(SA),
+	(int (cX), int (cY)), cv2.FONT_HERSHEY_SIMPLEX,
+		0.65, (0, 0, 0), 3)
+cv2.putText(orig, "{:.2f}sqcm".format(SA),
+	(int (cX), int (cY)), cv2.FONT_HERSHEY_SIMPLEX,
+		0.65, (255, 255, 255), 2)
 
-	# show the output image
-	origS = cv2.resize(orig, (1536, 1024))
-	cv2.imshow("Image", origS)
-	cv2.waitKey(0)
+# show the output image
+origS = cv2.resize(orig, (1536, 1024))
+cv2.imshow("Image", origS)
+cv2.waitKey(0)
 ```
 
 <p align="center">
@@ -404,7 +402,7 @@ Of course, you can always improve the results by correcting for lens distortion 
 After the `for` loop runs its course, the following codeblock exports the information stored 
 in the `measurements` list object to a `csv` file named `Measurements.csv` in the subdirectory `csv`.
 
-```
+```py
 # take X, Y, and surface area measurements from the list and append them to a CSV
 col_titles = ('X', 'Y', 'SA')
 data = pd.np.array(measure).reshape((len(measure) // 1, 3))
