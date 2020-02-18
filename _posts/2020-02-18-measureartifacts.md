@@ -76,7 +76,7 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 ### File directory
 
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
-and two subdirectories called `images` and `csv`. 
+and two subdirectories called `images` and `csv`. Below is a diagram showing the structure.
 
 <ul>
 	<li>artifact-area
