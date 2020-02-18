@@ -9,7 +9,7 @@ week</a>, I showed how to pull some extra quality out of photogrammetric models.
 This post is going to take a short dive into the world of <a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">computer vision</a>.
 You'll learn how to deploy a <a href="https://www.python.org/" target="_blank">Python</a> script using 
 <a href="https://opencv.org/" target="_blank">OpenCV</a> to take measurements of many artifacts 
-in a single photo. We will take a <a href="" target="_blank">script</a> 
+in a single photo. We will modify a <a href="" target="_blank">script</a> 
 originally developed by Adrian Rosebrock at <a href="https://www.pyimagesearch.com/" target="_blank">PyImageSearch</a> 
 to measure objects in an image. The modified script additionally calculates 2D surface area for each 
 artifact and exports the measurements to a CSV file. 
