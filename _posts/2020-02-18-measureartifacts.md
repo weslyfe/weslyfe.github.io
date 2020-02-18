@@ -123,9 +123,8 @@ measure many more artifacts in a single image.
  Title: Automated Rapid Artifact Surface Area Measurement from Imagery using Computer Vision
  Author: Wesley Weatherbee
  Date: February 2020
- Description: This script is intended to rapidly collect artifact measurments 
-              using computer vision to rapidly measure many objects in a 
-              single image.
+ Description:This script is intended to rapidly collect measurments 
+             from multiple artifacts in a simgle image using computer vision.
  
  Modified from: https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
  Original Author: Adrian Rosebrock
