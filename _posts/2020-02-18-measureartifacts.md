@@ -78,13 +78,13 @@ you can <a href="https://github.com/weslyfe/weslyfe.github.io/blob/master/downlo
 The source code comes as a `.zip` folder with the `artifact-area.py` file 
 and two subdirectories called `images` and `csv`. Below is a diagram showing the structure.
 
-<li>artifact-area
+<ul><li>artifact-area
 	<li>csv</li>
 	<li>images
 		<li>test_01.jpg</li>
 	</li>
 	<li>artifact-area.py</li>
-</li>
+</li></ul>
 	
 <i><small>File directory of ZIP folder.</small></i>
 
