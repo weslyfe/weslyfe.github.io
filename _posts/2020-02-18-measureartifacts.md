@@ -85,7 +85,8 @@ and two subdirectories called `images` and `csv`.
 		<ul>
 			<li>test_01.jpg</li>
 		</ul>
-	<li>artifact-area.py</li>
+		<li>artifact-area.py</li>
+	</li>
 </ul>
 	
 <i><small>File directory of ZIP folder.</small></i>
