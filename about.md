@@ -9,8 +9,7 @@ of archaeology.
 
 ### More Information
 
-Current MA Geography student at Saint Mary's University. My thesis will investigate the utility of remotely piloted aircraft systems and 
-ground penetrating radar survey for on drained salt marshes in the Bay of Fundy. 
+Anthropology Lab Technician at Saint Mary's University & archaeological researcher in Nova Scotia, Canada.  
 
 
 ### Contact me
